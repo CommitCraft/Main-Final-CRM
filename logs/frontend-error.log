@@ -1,0 +1,211 @@
+2025-11-10 21:38 +05:30: ^C
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:46 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:46 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:46 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:46 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:46 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:46 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:47 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:47 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:47 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:47 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:47 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:47 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:47 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:47 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:47 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:47 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:47 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:47 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:47 +05:30: ReferenceError: require is not defined in ES module scope, you can use import instead
+2025-11-10 21:47 +05:30: This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\gteck45\Downloads\CMSCRM\frontend\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-10 21:47 +05:30:     at file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js:1:19
+2025-11-10 21:47 +05:30:     at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+2025-11-10 21:47 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-10 21:47 +05:30:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:651:26)
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:47 +05:30: Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\gteck45\Downloads\CMSCRM\frontend\start-dev.js' imported from C:\Users\gteck45\Downloads\CMSCRM\backend\node_modules\pm2\lib\ProcessContainerFork.js
+2025-11-10 21:47 +05:30:     at finalizeResolution (node:internal/modules/esm/resolve:274:11)
+2025-11-10 21:47 +05:30:     at moduleResolve (node:internal/modules/esm/resolve:859:10)
+2025-11-10 21:47 +05:30:     at defaultResolve (node:internal/modules/esm/resolve:983:11)
+2025-11-10 21:47 +05:30:     at #cachedDefaultResolve (node:internal/modules/esm/loader:717:20)
+2025-11-10 21:47 +05:30:     at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
+2025-11-10 21:47 +05:30:     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
+2025-11-10 21:47 +05:30:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:650:36)
+2025-11-10 21:47 +05:30:     at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+2025-11-10 21:47 +05:30:     at ModuleLoader.import (node:internal/modules/esm/loader:649:21)
+2025-11-10 21:47 +05:30:     at defaultImportModuleDynamicallyForScript (node:internal/modules/esm/utils:235:31) {
+2025-11-10 21:47 +05:30:   code: 'ERR_MODULE_NOT_FOUND',
+2025-11-10 21:47 +05:30:   url: 'file:///C:/Users/gteck45/Downloads/CMSCRM/frontend/start-dev.js'
+2025-11-10 21:47 +05:30: }
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT
+2025-11-10 21:48 +05:30: Failed to start Vite: Error: spawn npm ENOENT

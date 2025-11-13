@@ -1,0 +1,20 @@
+:: 🧹 Kill any stuck Node or PM2 processes
+taskkill /F /IM node.exe
+taskkill /F /IM pm2.exe
+
+:: 🧼 Delete old PM2 cache (fixes rpc.sock issue)
+rd /s /q "C:\Users\MES WM\.pm2"
+
+:: ⚙️ Reinstall PM2 globally and refresh daemon
+npm install -g pm2
+pm2 update
+
+:: 🚀 Start your CMSCRM backend
+cd "C:\Users\MES WM\Dashborad_server-main\CMSCRM"
+pm2 start ecosystem.config.cjs --name cmscrm-backend
+:: 🚀 Start your CMSCRM backend
+cd "C:\Users\MES WM\Dashborad_server-main\CMSCRM"
+pm2 start ecosystem.config.cjs --name cmscrm-frontend
+
+:: 💾 Save process list so PM2 restarts them automatically after reboot
+pm2 save

@@ -1,0 +1,220 @@
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }

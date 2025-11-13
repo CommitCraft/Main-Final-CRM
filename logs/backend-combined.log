@@ -1,0 +1,939 @@
+2025-11-10 21:33 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:33 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:33 +05:30: ✅ Database connected successfully
+2025-11-10 21:33 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:33 +05:30: 📊 Environment: development
+2025-11-10 21:33 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:33 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:38 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:38 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:38 +05:30: ✅ Database connected successfully
+2025-11-10 21:38 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:38 +05:30: 📊 Environment: development
+2025-11-10 21:38 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:38 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:43 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:43 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:43 +05:30: ✅ Database connected successfully
+2025-11-10 21:43 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:43 +05:30: 📊 Environment: development
+2025-11-10 21:43 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:43 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:44 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:44 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:44 +05:30: ✅ Database connected successfully
+2025-11-10 21:44 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:44 +05:30: 📊 Environment: development
+2025-11-10 21:44 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:44 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:44 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.631 ms - 0[0m
+2025-11-10 21:44 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.117 ms - 0[0m
+2025-11-10 21:44 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.086 ms - 0[0m
+2025-11-10 21:46 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:46 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:46 +05:30: ✅ Database connected successfully
+2025-11-10 21:46 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:46 +05:30: 📊 Environment: development
+2025-11-10 21:46 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:46 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:46 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:46 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:46 +05:30: ✅ Database connected successfully
+2025-11-10 21:46 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:46 +05:30: 📊 Environment: development
+2025-11-10 21:46 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:46 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:47 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:47 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:47 +05:30: ✅ Database connected successfully
+2025-11-10 21:47 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:47 +05:30: 📊 Environment: development
+2025-11-10 21:47 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:47 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:48 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:48 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:48 +05:30: ✅ Database connected successfully
+2025-11-10 21:48 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:48 +05:30: 📊 Environment: development
+2025-11-10 21:48 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:48 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:52 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-10 21:52 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-10 21:52 +05:30: ✅ Database connected successfully
+2025-11-10 21:52 +05:30: 🚀 CMSCRM Backend Server running on http://192.168.1.34:5000
+2025-11-10 21:52 +05:30: 📊 Environment: development
+2025-11-10 21:52 +05:30: 🔗 Health Check: http://192.168.1.34:5000/health
+2025-11-10 21:52 +05:30: 📚 API Base: http://192.168.1.34:5000/api
+2025-11-10 21:53 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 1.397 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791850597 [32m204[0m 0.102 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.074 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.054 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.045 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.129 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.048 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.060 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.052 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.054 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.044 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791850597 [32m200[0m 14.100 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791850599 [32m204[0m 0.055 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.048 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 8.489 ms - 533[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.044 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.059 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 28.826 ms - 300[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 4.494 ms - 222[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 21.204 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 30.428 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [32m200[0m 8.534 ms - 140[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 8.607 ms - 815[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 11.471 ms - 533[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 10.716 ms - 300[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 11.690 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791850599 [32m200[0m 21.451 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 10.279 ms - 114[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [32m200[0m 47.442 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 10.380 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 8.313 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 7.181 ms - 815[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [36m304[0m 9.808 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 49.583 ms - -[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 4.471 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791853412 [32m204[0m 0.081 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 10.338 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 10.644 ms - 522[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791853412 [32m200[0m 13.076 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791853413 [32m204[0m 0.044 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 12.329 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 11.763 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 3.753 ms - 114[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 7.676 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 6.714 ms - 815[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 7.300 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [32m200[0m 15.737 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 6.472 ms - 522[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 16.156 ms - 114[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 18.607 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791853413 [32m200[0m 21.042 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 20.184 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 17.927 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 2.739 ms - 815[0m
+2025-11-10 21:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 41.712 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [36m304[0m 6.990 ms - -[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 3.950 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791855289 [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791855289&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.039 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.032 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791855289 [32m204[0m 0.037 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791855289&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.033 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.032 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791855289' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791855289 [32m200[0m 12.066 ms - 261[0m
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791855289&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 16.655 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages [32m200[0m 15.984 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791855289 [36m304[0m 6.512 ms - -[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791855289' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791855289&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [36m304[0m 4.238 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 4.757 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791856960 [32m204[0m 0.117 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791856961&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.043 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.189 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791856962 [32m204[0m 0.033 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791856962&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.030 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.029 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791856960 [32m200[0m 6.135 ms - 868[0m
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791856962 [32m200[0m 5.440 ms - 868[0m
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_role permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_role
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791856961' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_page permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_page
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_role permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_role
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791856962' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791856961&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 11.790 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages [32m200[0m 11.677 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791856962&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 10.490 ms - -[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_page permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_page
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 5.402 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791858079 [32m204[0m 0.052 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791858079&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.039 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791858079 [32m204[0m 0.053 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791858079&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.039 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791858079 [32m200[0m 4.259 ms - 868[0m
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_page permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_page
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_role permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_role
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791858079' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 11.597 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791858079 [36m304[0m 3.453 ms - -[0m
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791858079&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 9.250 ms - -[0m
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: TestUser1 (ID: 8), roles: testuser
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_page permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_page
+2025-11-10 21:54 +05:30: User has 5 assigned pages
+2025-11-10 21:54 +05:30: Access granted: User has assigned pages
+2025-11-10 21:54 +05:30: User 8 has 5 assigned pages
+2025-11-10 21:54 +05:30: Granting view_role permission to user with assigned pages
+2025-11-10 21:54 +05:30: Access granted for TestUser1: view_role
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791858079' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 4.675 ms - -[0m
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791858079&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [36m304[0m 13.241 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791865477 [32m204[0m 0.103 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages [32m204[0m 0.063 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791865478 [32m204[0m 0.059 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages [32m204[0m 0.058 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791865477 [32m200[0m 4.726 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791865478 [32m200[0m 3.867 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages [32m200[0m 4.434 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages [36m304[0m 2.712 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791870141 [32m204[0m 0.162 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.138 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.060 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.135 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.051 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.036 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.032 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.089 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.057 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791870142 [32m204[0m 0.065 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.075 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 6.242 ms - 114[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.073 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.062 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791870141 [32m200[0m 26.103 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.080 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.116 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 20.959 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 20.992 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 5.238 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 7.507 ms - 523[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [32m200[0m 17.497 ms - 140[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.718 ms - 816[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 14.935 ms - 114[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791870142 [32m200[0m 21.703 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 19.283 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [32m200[0m 23.501 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 6.724 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 21.369 ms - 523[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 11.993 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 21.473 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.200 ms - 816[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [36m304[0m 8.193 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.050 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.035 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.029 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 19.292 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 18.755 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 19.384 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791890850 [32m204[0m 0.092 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.041 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.039 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.079 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.045 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791890850 [32m200[0m 16.784 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.041 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.084 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 11.605 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.034 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791890851 [32m204[0m 0.033 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.038 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 12.963 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 12.652 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.033 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.029 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.031 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.027 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 8.862 ms - 523[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 7.884 ms - 222[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 10.245 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 9.884 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.056 ms - 816[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 7.910 ms - 523[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 20.188 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [32m200[0m 31.078 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791890851 [32m200[0m 12.767 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 10.839 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 5.112 ms - 222[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 10.200 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.068 ms - 816[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [36m304[0m 17.638 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791898787 [32m204[0m 0.079 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791898787 [32m200[0m 2.582 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791898929&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.052 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791898929' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 2.882 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791898929&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 3.191 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791898988 [32m204[0m 0.051 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791898988&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.035 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791898988' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791898988 [32m200[0m 2.963 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 4.631 ms - -[0m
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791898988&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 3.696 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899089 [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.050 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.044 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.048 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899089 [32m200[0m 4.769 ms - 868[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.040 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.040 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.041 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.039 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.032 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/memory [32m200[0m 3.129 ms - 305[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/performance [32m200[0m 22.252 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/cpu [32m200[0m 21.939 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/info [32m200[0m 6.706 ms - 523[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/health [32m200[0m 6.038 ms - 222[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/network [36m304[0m 6.456 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 6.131 ms - 816[0m
+2025-11-10 21:54 +05:30: [0mGET /api/system/processes [32m200[0m 13.866 ms - -[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899603 [32m204[0m 0.050 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791899603&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.049 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899604 [32m204[0m 0.093 ms - 0[0m
+2025-11-10 21:54 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1762791899604&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.036 ms - 0[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791899603' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899603 [32m200[0m 6.443 ms - 261[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791899604 [32m200[0m 5.568 ms - 261[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: 📥 GET /roles request - Query params: {
+2025-11-10 21:54 +05:30:   params: { _t: '1762791899604' },
+2025-11-10 21:54 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-10 21:54 +05:30: }
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 8.931 ms - -[0m
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: 📊 Roles query result: 5 roles found
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791899603&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 8.255 ms - -[0m
+2025-11-10 21:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-10 21:54 +05:30: Access granted: User is super admin
+2025-11-10 21:54 +05:30: [0mGET /api/roles?params%5B_t%5D=1762791899604&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 7.327 ms - -[0m
+2025-11-10 21:54 +05:30: [0mGET /api/pages [36m304[0m 3.756 ms - -[0m
+2025-11-10 21:55 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791900080 [32m204[0m 0.048 ms - 0[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/memory [32m200[0m 10.593 ms - 306[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/info [32m200[0m 11.301 ms - 522[0m
+2025-11-10 21:55 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791900080 [32m200[0m 13.737 ms - 868[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/cpu [32m200[0m 11.105 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/performance [32m200[0m 11.320 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/health [32m200[0m 3.466 ms - 222[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/network [36m304[0m 6.367 ms - -[0m
+2025-11-10 21:55 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791900089 [32m204[0m 0.038 ms - 0[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.895 ms - 816[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/memory [32m200[0m 3.841 ms - 306[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/info [32m200[0m 4.295 ms - 523[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/processes [32m200[0m 19.353 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/health [32m200[0m 10.553 ms - 222[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/network [36m304[0m 6.820 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/cpu [32m200[0m 4.567 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/performance [32m200[0m 10.197 ms - -[0m
+2025-11-10 21:55 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1762791900089 [32m200[0m 8.519 ms - 868[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/process-stats [32m200[0m 1.556 ms - 816[0m
+2025-11-10 21:55 +05:30: [0mGET /api/system/processes [36m304[0m 9.093 ms - -[0m
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:19 +05:30: ✅ Database connected successfully
+2025-11-13 11:19 +05:30: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:19 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 127.0.0.0:5000
+2025-11-13 11:19 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-11-13 11:19 +05:30:     at listenInCluster (node:net:1996:12)
+2025-11-13 11:19 +05:30:     at node:net:2205:7
+2025-11-13 11:19 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-11-13 11:19 +05:30:   code: 'EADDRNOTAVAIL',
+2025-11-13 11:19 +05:30:   errno: -4090,
+2025-11-13 11:19 +05:30:   syscall: 'listen',
+2025-11-13 11:19 +05:30:   address: '127.0.0.0',
+2025-11-13 11:19 +05:30:   port: 5000
+2025-11-13 11:19 +05:30: }
+2025-11-13 11:22 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:22 +05:30: ✅ Database connected successfully
+2025-11-13 11:22 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-13 11:22 +05:30: 📊 Environment: development
+2025-11-13 11:22 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-13 11:22 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-13 11:22 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-13 11:22 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 2.333 ms - 0[0m
+2025-11-13 11:22 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.241 ms - 0[0m
+2025-11-13 11:24 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.198 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.337 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mPOST /api/auth/login [32m200[0m 517.151 ms - 665[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013329422 [32m204[0m 0.303 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.458 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.243 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.483 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/info [32m204[0m 1.313 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/health [32m204[0m 1.161 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.558 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.708 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.273 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.320 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013329441 [32m204[0m 0.458 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013329422 [32m200[0m 281.113 ms - 261[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 1.797 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/info [32m200[0m 56.698 ms - 527[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.231 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.265 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.226 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/cpu [32m200[0m 148.330 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/performance [32m200[0m 205.126 ms - -[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 2.320 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/memory [32m200[0m 227.122 ms - 296[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/health [32m200[0m 43.055 ms - 269[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/process-stats [32m200[0m 56.837 ms - 817[0m
+2025-11-13 11:25 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:25 +05:30: Access granted: User is super admin
+2025-11-13 11:25 +05:30: [0mGET /api/system/network [32m200[0m 100.340 ms - 147[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/info [32m200[0m 104.922 ms - 527[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/memory [32m200[0m 50.342 ms - 296[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/cpu [32m200[0m 58.901 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/performance [32m200[0m 82.460 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013329441 [32m200[0m 255.305 ms - 261[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/health [32m200[0m 24.984 ms - 269[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/process-stats [32m200[0m 21.429 ms - 817[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/network [36m304[0m 35.724 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/stats/dashboard [32m200[0m 323.937 ms - -[0m
+2025-11-13 11:25 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:25 +05:30: Access granted: User is super admin
+2025-11-13 11:25 +05:30: [0mGET /api/stats/dashboard [32m200[0m 26.509 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/processes [32m200[0m 443.579 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/processes [32m200[0m 272.506 ms - -[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.454 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.591 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.939 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/memory [32m200[0m 37.115 ms - 297[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/performance [32m200[0m 52.277 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/cpu [32m200[0m 44.828 ms - -[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.424 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.224 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.287 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/memory [32m200[0m 34.362 ms - 297[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/info [32m204[0m 1.205 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.252 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.380 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.346 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.171 ms - 0[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/cpu [32m200[0m 36.475 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/performance [32m200[0m 38.616 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/info [32m200[0m 19.388 ms - 526[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/health [32m200[0m 43.522 ms - 222[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/process-stats [32m200[0m 43.084 ms - 816[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/network [36m304[0m 61.295 ms - -[0m
+2025-11-13 11:25 +05:30: [0mGET /api/system/processes [32m200[0m 250.134 ms - -[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.106 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.097 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.165 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/memory [32m200[0m 20.964 ms - 297[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/cpu [32m200[0m 21.396 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/performance [32m200[0m 22.144 ms - -[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.353 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.596 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.693 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.898 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.335 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.339 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.145 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.210 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/info [32m200[0m 32.697 ms - 539[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/memory [32m200[0m 18.195 ms - 297[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/performance [32m200[0m 51.350 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/health [32m200[0m 27.221 ms - 376[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/cpu [32m200[0m 24.505 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/network [36m304[0m 44.479 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/process-stats [32m200[0m 31.970 ms - 817[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/processes [32m200[0m 351.528 ms - -[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.677 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.613 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 1.699 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/memory [32m200[0m 34.573 ms - 297[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/cpu [32m200[0m 40.382 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/performance [32m200[0m 50.221 ms - -[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.169 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.136 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.248 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.233 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.103 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.176 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/memory [32m200[0m 28.369 ms - 297[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/info [32m200[0m 35.702 ms - 539[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.466 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.286 ms - 0[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/cpu [32m200[0m 28.520 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/performance [32m200[0m 31.119 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/health [32m200[0m 15.898 ms - 376[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/network [36m304[0m 35.689 ms - -[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/process-stats [32m200[0m 31.273 ms - 817[0m
+2025-11-13 11:26 +05:30: [0mGET /api/system/processes [32m200[0m 251.864 ms - -[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.341 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.225 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.351 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/memory [32m200[0m 27.865 ms - 297[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/cpu [32m200[0m 29.787 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/performance [32m200[0m 31.893 ms - -[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.242 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.281 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.252 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.248 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.164 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.413 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.193 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.225 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/memory [32m200[0m 59.916 ms - 297[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/info [32m200[0m 55.959 ms - 539[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/cpu [32m200[0m 70.648 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/performance [32m200[0m 71.764 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/network [36m304[0m 49.963 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/health [32m200[0m 45.017 ms - 376[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/process-stats [32m200[0m 35.907 ms - 817[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/processes [32m200[0m 284.208 ms - -[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.086 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.125 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.100 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/memory [32m200[0m 20.881 ms - 297[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/cpu [32m200[0m 22.422 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/performance [32m200[0m 23.283 ms - -[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.356 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.259 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.294 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/memory [32m200[0m 49.497 ms - 297[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.227 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 4.292 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.181 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.187 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/cpu [32m200[0m 52.845 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/performance [32m200[0m 55.395 ms - -[0m
+2025-11-13 11:27 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.201 ms - 0[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/health [32m200[0m 16.980 ms - 376[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/info [32m200[0m 14.712 ms - 539[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/network [36m304[0m 26.401 ms - -[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/process-stats [32m200[0m 25.595 ms - 817[0m
+2025-11-13 11:27 +05:30: [0mGET /api/system/processes [32m200[0m 252.548 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.089 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.087 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.107 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/memory [32m200[0m 21.237 ms - 297[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/cpu [32m200[0m 21.811 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/performance [32m200[0m 22.504 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.271 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.884 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.321 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.203 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.089 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.069 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.153 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/memory [32m200[0m 9.230 ms - 297[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/cpu [32m200[0m 28.079 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/performance [32m200[0m 29.776 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.291 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/info [32m200[0m 14.912 ms - 539[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/health [32m200[0m 10.157 ms - 376[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/network [36m304[0m 19.085 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/process-stats [32m200[0m 19.107 ms - 817[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/processes [32m200[0m 198.165 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013523236 [32m204[0m 0.196 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.216 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.366 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.218 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.208 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.227 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.408 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013523236 [32m200[0m 54.526 ms - 261[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.185 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.187 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.160 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/memory [32m200[0m 20.337 ms - 302[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013523245 [32m204[0m 1.783 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.220 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.192 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/performance [32m200[0m 49.146 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/cpu [32m200[0m 50.966 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.696 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.120 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.182 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.235 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/health [32m200[0m 22.465 ms - 222[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/info [32m200[0m 48.870 ms - 538[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/network [36m304[0m 56.914 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/process-stats [32m200[0m 50.957 ms - 817[0m
+2025-11-13 11:28 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:28 +05:30: Access granted: User is super admin
+2025-11-13 11:28 +05:30: [0mGET /api/system/memory [32m200[0m 22.526 ms - 302[0m
+2025-11-13 11:28 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013523245 [32m200[0m 55.236 ms - 261[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/health [32m200[0m 29.518 ms - 222[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/cpu [32m200[0m 17.609 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/performance [32m200[0m 47.623 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/info [32m200[0m 52.488 ms - 539[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/network [36m304[0m 68.727 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/process-stats [32m200[0m 7.462 ms - 817[0m
+2025-11-13 11:28 +05:30: [0mGET /api/stats/dashboard [32m200[0m 189.996 ms - -[0m
+2025-11-13 11:28 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:28 +05:30: Access granted: User is super admin
+2025-11-13 11:28 +05:30: [0mGET /api/stats/dashboard [32m200[0m 12.639 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/processes [32m200[0m 348.833 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/processes [32m200[0m 179.253 ms - -[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.183 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.141 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.177 ms - 0[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/memory [32m200[0m 22.972 ms - 302[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/cpu [32m200[0m 25.660 ms - -[0m
+2025-11-13 11:28 +05:30: [0mGET /api/system/performance [32m200[0m 28.032 ms - -[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.251 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.186 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.211 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.302 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.117 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.136 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.257 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.114 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/memory [32m200[0m 24.856 ms - 297[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/info [32m200[0m 6.487 ms - 513[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/cpu [32m200[0m 26.418 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/performance [32m200[0m 28.067 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/health [32m200[0m 11.042 ms - 114[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/process-stats [32m200[0m 6.896 ms - 816[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/network [36m304[0m 12.905 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/processes [32m200[0m 170.885 ms - -[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.230 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.237 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.173 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/cpu [32m200[0m 25.818 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/performance [32m200[0m 26.269 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/memory [32m200[0m 5.219 ms - 301[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.304 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.203 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.197 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.162 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/memory [32m200[0m 32.701 ms - 301[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.218 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.143 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.202 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 1.292 ms - 0[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/cpu [32m200[0m 34.742 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/performance [32m200[0m 37.468 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/info [32m200[0m 20.951 ms - 513[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/health [32m200[0m 32.703 ms - 222[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/network [36m304[0m 44.432 ms - -[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/process-stats [32m200[0m 37.414 ms - 817[0m
+2025-11-13 11:29 +05:30: [0mGET /api/system/processes [32m200[0m 307.413 ms - -[0m

@@ -1,0 +1,1250 @@
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-29 19:04 +05:30: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-29 19:04 +05:30: Uncaught Exception: Error: listen EADDRINUSE: address already in use 192.168.31.65:5000
+2025-10-29 19:04 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+2025-10-29 19:04 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-29 19:04 +05:30:     at node:net:2205:7
+2025-10-29 19:04 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-29 19:04 +05:30:   code: 'EADDRINUSE',
+2025-10-29 19:04 +05:30:   errno: -4091,
+2025-10-29 19:04 +05:30:   syscall: 'listen',
+2025-10-29 19:04 +05:30:   address: '192.168.31.65',
+2025-10-29 19:04 +05:30:   port: 5000
+2025-10-29 19:04 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:38 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:38 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:38 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:38 +05:30:     at node:net:2205:7
+2025-10-30 14:38 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:38 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:38 +05:30:   errno: -4090,
+2025-10-30 14:38 +05:30:   syscall: 'listen',
+2025-10-30 14:38 +05:30:   address: '192.168.31.65',
+2025-10-30 14:38 +05:30:   port: 5000
+2025-10-30 14:38 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:45 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:45 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:45 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:45 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:45 +05:30:     at node:net:2205:7
+2025-10-30 14:45 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:45 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:45 +05:30:   errno: -4090,
+2025-10-30 14:45 +05:30:   syscall: 'listen',
+2025-10-30 14:45 +05:30:   address: '192.168.31.65',
+2025-10-30 14:45 +05:30:   port: 5000
+2025-10-30 14:45 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 14:48 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 14:48 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 14:48 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 14:48 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 14:48 +05:30:     at node:net:2205:7
+2025-10-30 14:48 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 14:48 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 14:48 +05:30:   errno: -4090,
+2025-10-30 14:48 +05:30:   syscall: 'listen',
+2025-10-30 14:48 +05:30:   address: '192.168.31.65',
+2025-10-30 14:48 +05:30:   port: 5000
+2025-10-30 14:48 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+2025-10-30 16:11 +05:30: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
+2025-10-30 16:11 +05:30: Uncaught Exception: Error: listen EADDRNOTAVAIL: address not available 192.168.31.65:5000
+2025-10-30 16:11 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1917:21)
+2025-10-30 16:11 +05:30:     at listenInCluster (node:net:1996:12)
+2025-10-30 16:11 +05:30:     at node:net:2205:7
+2025-10-30 16:11 +05:30:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-10-30 16:11 +05:30:   code: 'EADDRNOTAVAIL',
+2025-10-30 16:11 +05:30:   errno: -4090,
+2025-10-30 16:11 +05:30:   syscall: 'listen',
+2025-10-30 16:11 +05:30:   address: '192.168.31.65',
+2025-10-30 16:11 +05:30:   port: 5000
+2025-10-30 16:11 +05:30: }
