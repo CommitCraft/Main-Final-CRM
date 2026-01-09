@@ -780,3 +780,141 @@
 2025-10-30 16:50 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
 2025-10-30 16:50 +05:30: ✅ Enhanced System Monitor: Connected to PM2
 2025-10-30 16:50 +05:30: ✅ Database connected successfully
+🔄 Enhanced System Monitor: Continuous monitoring started
+✅ Enhanced System Monitor: Connected to PM2
+✅ Database connected successfully
+🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+📊 Environment: development
+🔗 Health Check: http://127.0.0.1:5000/health
+📚 API Base: http://127.0.0.1:5000/api
+[0mOPTIONS /api/system/performance [32m204[0m 1.139 ms - 0[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.136 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.122 ms - 0[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.105 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.105 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.093 ms - 0[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.104 ms - 0[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.136 ms - 0[0m
+[0mGET /api/system/performance [32m200[0m 28.832 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 11.216 ms - 874[0m
+[0mGET /api/system/network [36m304[0m 50.098 ms - -[0m
+[0mGET /api/system/info [32m200[0m 18.580 ms - 498[0m
+[0mGET /api/system/memory [32m200[0m 34.191 ms - 300[0m
+[0mGET /api/system/cpu [32m200[0m 56.863 ms - -[0m
+[0mGET /api/system/health [32m200[0m 16.493 ms - 114[0m
+[0mGET /api/system/processes [32m200[0m 142.695 ms - -[0m
+[0mOPTIONS /api/system/performance [32m204[0m 0.215 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.138 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.129 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.079 ms - 0[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.087 ms - 0[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.086 ms - 0[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.071 ms - 0[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.125 ms - 0[0m
+[0mGET /api/system/memory [32m200[0m 20.228 ms - 297[0m
+[0mGET /api/system/performance [32m200[0m 20.059 ms - -[0m
+[0mGET /api/system/info [32m200[0m 9.276 ms - 498[0m
+[0mGET /api/system/cpu [32m200[0m 21.201 ms - -[0m
+[0mGET /api/system/health [32m200[0m 8.298 ms - 222[0m
+[0mGET /api/system/network [36m304[0m 16.321 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 15.338 ms - 875[0m
+[0mGET /api/system/processes [32m200[0m 146.156 ms - -[0m
+🔄 Enhanced System Monitor: Continuous monitoring started
+✅ Enhanced System Monitor: Connected to PM2
+✅ Database connected successfully
+🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+📊 Environment: development
+🔗 Health Check: http://127.0.0.1:5000/health
+📚 API Base: http://127.0.0.1:5000/api
+[0mOPTIONS /api/system/performance [32m204[0m 1.206 ms - 0[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.164 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.392 ms - 0[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.103 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.173 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.117 ms - 0[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.151 ms - 0[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.110 ms - 0[0m
+[0mGET /api/system/performance [32m200[0m 35.201 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 11.720 ms - 874[0m
+[0mGET /api/system/info [32m200[0m 17.079 ms - 498[0m
+[0mGET /api/system/network [36m304[0m 73.227 ms - -[0m
+[0mGET /api/system/memory [32m200[0m 39.675 ms - 295[0m
+[0mGET /api/system/cpu [32m200[0m 72.660 ms - -[0m
+[0mGET /api/system/health [32m200[0m 27.301 ms - 222[0m
+[0mGET /api/system/processes [32m200[0m 176.446 ms - -[0m
+[0mOPTIONS /api/system/performance [32m204[0m 0.116 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.110 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.102 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.085 ms - 0[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.089 ms - 0[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.075 ms - 0[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.079 ms - 0[0m
+[0mGET /api/system/memory [32m200[0m 21.608 ms - 296[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.141 ms - 0[0m
+[0mGET /api/system/info [32m200[0m 23.281 ms - 506[0m
+[0mGET /api/system/cpu [32m200[0m 23.006 ms - -[0m
+[0mGET /api/system/performance [32m200[0m 24.366 ms - -[0m
+[0mGET /api/system/health [32m200[0m 10.002 ms - 114[0m
+[0mGET /api/system/network [36m304[0m 17.037 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 13.668 ms - 875[0m
+[0mGET /api/system/processes [32m200[0m 155.299 ms - -[0m
+[0mOPTIONS /api/system/performance [32m204[0m 0.150 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.096 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.083 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.092 ms - 0[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.085 ms - 0[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.081 ms - 0[0m
+[0mGET /api/system/memory [32m200[0m 19.568 ms - 296[0m
+[0mGET /api/system/info [32m200[0m 20.114 ms - 499[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.110 ms - 0[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.100 ms - 0[0m
+[0mGET /api/system/cpu [32m200[0m 20.810 ms - -[0m
+[0mGET /api/system/performance [32m200[0m 22.133 ms - -[0m
+[0mGET /api/system/health [32m200[0m 8.415 ms - 222[0m
+[0mGET /api/system/network [36m304[0m 15.255 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 14.237 ms - 875[0m
+[0mGET /api/system/processes [32m200[0m 161.456 ms - -[0m
+[0mOPTIONS /api/system/performance [32m204[0m 2.517 ms - 0[0m
+[0mOPTIONS /api/system/cpu [32m204[0m 0.231 ms - 0[0m
+[0mOPTIONS /api/system/memory [32m204[0m 0.452 ms - 0[0m
+[0mOPTIONS /api/system/info [32m204[0m 0.277 ms - 0[0m
+[0mGET /api/system/memory [32m200[0m 57.075 ms - 296[0m
+[0mOPTIONS /api/system/processes [32m204[0m 0.107 ms - 0[0m
+[0mOPTIONS /api/system/network [32m204[0m 0.239 ms - 0[0m
+[0mOPTIONS /api/system/process-stats [32m204[0m 0.298 ms - 0[0m
+[0mGET /api/system/cpu [32m200[0m 59.742 ms - -[0m
+[0mGET /api/system/performance [32m200[0m 61.734 ms - -[0m
+[0mOPTIONS /api/system/health [32m204[0m 0.453 ms - 0[0m
+[0mGET /api/system/info [32m200[0m 26.761 ms - 498[0m
+[0mGET /api/system/network [36m304[0m 39.251 ms - -[0m
+[0mGET /api/system/process-stats [32m200[0m 40.223 ms - 875[0m
+[0mGET /api/system/health [32m200[0m 44.430 ms - 222[0m
+[0mGET /api/system/processes [0m-[0m - ms - -[0m
+[0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763541778353 [32m204[0m 0.228 ms - 0[0m
+[0mGET /api/system/memory [32m200[0m 34.557 ms - 296[0m
+[0mGET /api/system/info [32m200[0m 33.356 ms - 535[0m
+[0mGET /api/system/health [32m200[0m 12.235 ms - 222[0m
+[0mGET /api/system/cpu [32m200[0m 37.568 ms - -[0m
+[0mGET /api/system/performance [32m200[0m 39.422 ms - -[0m
+[0mGET /api/system/network [36m304[0m 24.084 ms - -[0m
+[0mOPTIONS /api/stats/dashboard [32m204[0m 0.146 ms - 0[0m
+[0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763541778356 [32m204[0m 0.139 ms - 0[0m
+[0mOPTIONS /api/stats/dashboard [32m204[0m 0.117 ms - 0[0m
+[0mGET /api/system/process-stats [32m200[0m 11.822 ms - 874[0m
+[0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763541778353 [32m200[0m 34.139 ms - 261[0m
+[0mGET /api/system/memory [32m200[0m 13.348 ms - 296[0m
+[0mGET /api/system/info [32m200[0m 16.104 ms - 536[0m
+[0mGET /api/system/health [32m200[0m 16.197 ms - 114[0m
+[0mGET /api/system/network [36m304[0m 42.066 ms - -[0m
+requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+Access granted: User is super admin
+[0mGET /api/system/cpu [32m200[0m 17.186 ms - -[0m
+[0mGET /api/system/performance [32m200[0m 33.358 ms - -[0m
+[0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763541778356 [32m200[0m 75.909 ms - 261[0m
+[0mGET /api/system/process-stats [32m200[0m 26.952 ms - 875[0m
+[0mGET /api/stats/dashboard [32m200[0m 126.574 ms - -[0m
+requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+Access granted: User is super admin
+[0mGET /api/stats/dashboard [32m200[0m 16.519 ms - -[0m
+[0mGET /api/system/processes [32m200[0m 279.853 ms - -[0m
+[0mGET /api/system/processes [32m200[0m 166.220 ms - -[0m

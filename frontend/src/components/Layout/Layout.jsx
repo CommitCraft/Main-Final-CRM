@@ -378,7 +378,7 @@ const Header = ({ onMenuClick }) => {
           
           <div>
             <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-              Welcome back, <span className="text-primary-600 dark:text-primary-400">{user?.username}</span>!
+              Welcome Back <span className="text-primary-600 dark:text-primary-400">{user?.username}</span>!
             </h1>
             <p className="text-xs font-medium text-gray-500 dark:text-gray-400 mt-0.5">
               {new Date().toLocaleDateString('en-US', { 

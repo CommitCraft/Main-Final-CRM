@@ -783,3 +783,2265 @@
 2025-11-13 11:31 +05:30: [0mGET /api/system/network [32m200[0m 52.309 ms - 262[0m
 2025-11-13 11:31 +05:30: [0mGET /api/system/process-stats [32m200[0m 46.848 ms - 817[0m
 2025-11-13 11:31 +05:30: [0mGET /api/system/processes [32m200[0m 400.435 ms - -[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.328 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.608 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.247 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/memory [32m200[0m 30.119 ms - 297[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/cpu [32m200[0m 32.266 ms - -[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/performance [32m200[0m 34.293 ms - -[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.472 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.439 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.450 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.298 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.188 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.145 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/memory [32m200[0m 32.042 ms - 297[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.149 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/info [32m200[0m 33.704 ms - 527[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.100 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/cpu [32m200[0m 33.879 ms - -[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/performance [32m200[0m 34.381 ms - -[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/health [32m200[0m 11.653 ms - 222[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/network [36m304[0m 17.220 ms - -[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/process-stats [32m200[0m 17.815 ms - 817[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/processes [32m200[0m 187.490 ms - -[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.086 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.094 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.185 ms - 0[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/memory [32m200[0m 19.953 ms - 297[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/cpu [32m200[0m 20.676 ms - -[0m
+2025-11-13 11:31 +05:30: [0mGET /api/system/performance [32m200[0m 21.322 ms - -[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.169 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.137 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.297 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.235 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.116 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.156 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.166 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.076 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/memory [32m200[0m 30.263 ms - 297[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/info [32m200[0m 28.560 ms - 526[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/performance [32m200[0m 31.407 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/cpu [32m200[0m 32.376 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/health [32m200[0m 13.082 ms - 376[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/network [36m304[0m 21.389 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/process-stats [32m200[0m 20.241 ms - 817[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/processes [32m200[0m 244.089 ms - -[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.640 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 1.233 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.233 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/memory [32m200[0m 36.823 ms - 298[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/cpu [32m200[0m 11.029 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/performance [32m200[0m 39.136 ms - -[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.182 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.192 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.258 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.250 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.136 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.231 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/memory [32m200[0m 30.461 ms - 298[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/info [32m200[0m 34.368 ms - 528[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.128 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.312 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/cpu [32m200[0m 32.119 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/performance [32m200[0m 31.012 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/health [32m200[0m 44.867 ms - 376[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/network [36m304[0m 64.503 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/process-stats [32m200[0m 64.230 ms - 817[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/processes [32m200[0m 262.572 ms - -[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.080 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.084 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.111 ms - 0[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/memory [32m200[0m 23.948 ms - 298[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/cpu [32m200[0m 23.716 ms - -[0m
+2025-11-13 11:32 +05:30: [0mGET /api/system/performance [32m200[0m 23.069 ms - -[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.420 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.217 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.270 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.189 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.133 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.153 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/memory [32m200[0m 31.536 ms - 297[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/info [32m200[0m 32.268 ms - 528[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/health [32m200[0m 31.221 ms - 269[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.174 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.136 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/cpu [32m200[0m 34.486 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/performance [32m200[0m 36.233 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/network [36m304[0m 21.101 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/process-stats [32m200[0m 17.851 ms - 817[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/processes [32m200[0m 253.236 ms - -[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.890 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.161 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.150 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/memory [32m200[0m 25.210 ms - 297[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/cpu [32m200[0m 27.740 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/performance [32m200[0m 28.957 ms - -[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 1.426 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.363 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.510 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.501 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.120 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.076 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/memory [32m200[0m 35.213 ms - 297[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.124 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.143 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/info [32m200[0m 7.672 ms - 527[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/cpu [32m200[0m 40.176 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/performance [32m200[0m 42.173 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/health [32m200[0m 40.968 ms - 114[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/network [36m304[0m 50.577 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/process-stats [32m200[0m 37.100 ms - 817[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/processes [32m200[0m 223.917 ms - -[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.364 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.224 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.223 ms - 0[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/memory [32m200[0m 25.354 ms - 297[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/cpu [32m200[0m 27.130 ms - -[0m
+2025-11-13 11:33 +05:30: [0mGET /api/system/performance [32m200[0m 27.701 ms - -[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.361 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.596 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.445 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.206 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.619 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.274 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.327 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/memory [32m200[0m 37.825 ms - 297[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.126 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/info [32m200[0m 11.543 ms - 528[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/cpu [32m200[0m 40.270 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/performance [32m200[0m 42.518 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/health [32m200[0m 30.544 ms - 114[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/network [36m304[0m 53.733 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 39.255 ms - 817[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/processes [32m200[0m 257.327 ms - -[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.636 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.505 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.416 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/memory [32m200[0m 30.974 ms - 301[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/cpu [32m200[0m 33.073 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/performance [32m200[0m 35.825 ms - -[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.699 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.449 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.842 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.330 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.735 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.247 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.140 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/memory [32m200[0m 36.945 ms - 301[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/info [32m200[0m 36.113 ms - 528[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.127 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/cpu [32m200[0m 41.651 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/performance [32m200[0m 42.301 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/health [32m200[0m 50.542 ms - 114[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/network [36m304[0m 60.461 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 21.231 ms - 816[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/processes [32m200[0m 224.261 ms - -[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013894318 [32m204[0m 0.248 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.140 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.235 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.155 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.182 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.121 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.194 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013894318 [32m200[0m 59.733 ms - 261[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.193 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.134 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/memory [32m200[0m 11.181 ms - 301[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/cpu [32m200[0m 45.341 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/performance [32m200[0m 46.966 ms - -[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.129 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013894324 [32m204[0m 0.116 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.300 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.300 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.171 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.234 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.794 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.155 ms - 0[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/info [32m200[0m 20.111 ms - 513[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/health [32m200[0m 17.981 ms - 114[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/network [36m304[0m 29.667 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 32.619 ms - 817[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/memory [32m200[0m 35.852 ms - 301[0m
+2025-11-13 11:34 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:34 +05:30: Access granted: User is super admin
+2025-11-13 11:34 +05:30: [0mGET /api/system/info [32m200[0m 37.001 ms - 512[0m
+2025-11-13 11:34 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763013894324 [32m200[0m 43.899 ms - 261[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/cpu [32m200[0m 15.187 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/performance [32m200[0m 32.625 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/health [32m200[0m 13.694 ms - 114[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/network [36m304[0m 20.889 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 18.328 ms - 817[0m
+2025-11-13 11:34 +05:30: [0mGET /api/stats/dashboard [32m200[0m 90.890 ms - -[0m
+2025-11-13 11:34 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-13 11:34 +05:30: Access granted: User is super admin
+2025-11-13 11:34 +05:30: [0mGET /api/stats/dashboard [32m200[0m 9.522 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/processes [32m200[0m 251.985 ms - -[0m
+2025-11-13 11:34 +05:30: [0mGET /api/system/processes [32m200[0m 192.725 ms - -[0m
+2025-11-13 11:50 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 11:50 +05:30: ✅ Database connected successfully
+2025-11-13 11:50 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-13 11:50 +05:30: 📊 Environment: development
+2025-11-13 11:50 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-13 11:50 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-13 11:50 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-13 12:45 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-13 12:45 +05:30: ✅ Database connected successfully
+2025-11-13 12:45 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-13 12:45 +05:30: 📊 Environment: development
+2025-11-13 12:45 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-13 12:45 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-13 12:45 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-14 10:28 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-14 10:28 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-14 10:28 +05:30: ✅ Database connected successfully
+2025-11-14 10:28 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-14 10:28 +05:30: 📊 Environment: development
+2025-11-14 10:28 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-14 10:28 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-15 10:50 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-15 10:50 +05:30: ✅ Database connected successfully
+2025-11-15 10:50 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-15 10:50 +05:30: 📊 Environment: development
+2025-11-15 10:50 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-15 10:50 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-15 10:50 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-17 12:24 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-17 12:24 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-17 12:24 +05:30: ✅ Database connected successfully
+2025-11-17 12:24 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-17 12:24 +05:30: 📊 Environment: development
+2025-11-17 12:24 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-17 12:24 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-18 14:43 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-18 14:43 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-18 14:43 +05:30: ✅ Database connected successfully
+2025-11-18 14:43 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-18 14:43 +05:30: 📊 Environment: development
+2025-11-18 14:43 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-18 14:43 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-18 16:21 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 3.634 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 0.589 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mPOST /api/auth/login [32m200[0m 645.957 ms - 665[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463148395 [32m204[0m 0.285 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.163 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.320 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.218 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.549 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.272 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.156 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.294 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.251 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.325 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463148397 [32m204[0m 0.102 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463148395 [32m200[0m 95.439 ms - 261[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.163 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/cpu [32m200[0m 25.456 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/performance [32m200[0m 51.154 ms - -[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/memory [32m200[0m 70.431 ms - 299[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.143 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.114 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.154 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.402 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/info [32m200[0m 70.160 ms - 516[0m
+2025-11-18 16:22 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:22 +05:30: Access granted: User is super admin
+2025-11-18 16:22 +05:30: [0mGET /api/system/health [32m200[0m 109.642 ms - 269[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/network [32m200[0m 115.010 ms - 398[0m
+2025-11-18 16:22 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463148397 [32m200[0m 47.217 ms - 261[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/process-stats [32m200[0m 107.021 ms - 817[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/memory [32m200[0m 42.135 ms - 300[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/info [32m200[0m 40.316 ms - 516[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/cpu [32m200[0m 24.432 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/performance [32m200[0m 44.305 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/health [32m200[0m 18.264 ms - 269[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/network [36m304[0m 31.931 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/process-stats [32m200[0m 8.981 ms - 816[0m
+2025-11-18 16:22 +05:30: [0mGET /api/stats/dashboard [32m200[0m 227.907 ms - -[0m
+2025-11-18 16:22 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:22 +05:30: Access granted: User is super admin
+2025-11-18 16:22 +05:30: [0mGET /api/stats/dashboard [32m200[0m 16.654 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/processes [32m200[0m 397.971 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/processes [32m200[0m 338.333 ms - -[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.316 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.201 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/memory [32m200[0m 20.254 ms - 300[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/cpu [32m200[0m 20.185 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/performance [32m200[0m 20.741 ms - -[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.086 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.093 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.120 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.116 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.077 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.069 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.081 ms - 0[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/memory [32m200[0m 7.656 ms - 300[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/info [32m200[0m 7.639 ms - 515[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/performance [32m200[0m 17.066 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/health [32m200[0m 9.270 ms - 376[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/cpu [32m200[0m 8.802 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/network [36m304[0m 16.658 ms - -[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/process-stats [32m200[0m 16.541 ms - 817[0m
+2025-11-18 16:22 +05:30: [0mGET /api/system/processes [32m200[0m 181.644 ms - -[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.316 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.390 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.275 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/memory [32m200[0m 19.262 ms - 297[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/cpu [32m200[0m 21.576 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/performance [32m200[0m 23.835 ms - -[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.158 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.079 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.131 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.079 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.081 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.092 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/memory [32m200[0m 6.766 ms - 297[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.124 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/info [32m200[0m 8.559 ms - 515[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/cpu [32m200[0m 25.411 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/performance [32m200[0m 21.831 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/network [36m304[0m 14.966 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/health [32m200[0m 15.431 ms - 269[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.092 ms - 817[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/processes [32m200[0m 168.363 ms - -[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.319 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.215 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.208 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/memory [32m200[0m 19.210 ms - 297[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/cpu [32m200[0m 20.652 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/performance [32m200[0m 22.042 ms - -[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.149 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.134 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.150 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.174 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.130 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.176 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.135 ms - 0[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/memory [32m200[0m 9.634 ms - 296[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/cpu [32m200[0m 38.784 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/performance [32m200[0m 27.469 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/info [32m200[0m 16.652 ms - 515[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/health [32m200[0m 19.519 ms - 376[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/process-stats [32m200[0m 19.557 ms - 816[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/network [36m304[0m 18.904 ms - -[0m
+2025-11-18 16:23 +05:30: [0mGET /api/system/processes [32m200[0m 220.568 ms - -[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.262 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.130 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.319 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/memory [32m200[0m 17.510 ms - 296[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/cpu [32m200[0m 19.810 ms - -[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/performance [32m200[0m 21.320 ms - -[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.100 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/info [32m200[0m 6.676 ms - 515[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.133 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.074 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/health [32m200[0m 9.326 ms - 376[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/network [36m304[0m 19.664 ms - -[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/process-stats [32m200[0m 18.143 ms - 817[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/processes [32m200[0m 221.583 ms - -[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.154 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.155 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.196 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/memory [32m200[0m 30.344 ms - 300[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/cpu [32m200[0m 33.601 ms - -[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/performance [32m200[0m 36.009 ms - -[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.204 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/info [32m200[0m 9.928 ms - 501[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.206 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.245 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.234 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.204 ms - 0[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/health [32m200[0m 11.777 ms - 376[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/network [36m304[0m 25.683 ms - -[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/process-stats [32m200[0m 23.210 ms - 816[0m
+2025-11-18 16:24 +05:30: [0mGET /api/system/processes [32m200[0m 459.713 ms - -[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.092 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.142 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.169 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.146 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/info [32m200[0m 8.026 ms - 503[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.121 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/health [32m200[0m 6.170 ms - 376[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/network [36m304[0m 17.738 ms - -[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/process-stats [32m200[0m 16.813 ms - 817[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/processes [32m200[0m 207.873 ms - -[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.180 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.174 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.136 ms - 0[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/memory [32m200[0m 41.997 ms - 300[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/performance [32m200[0m 46.746 ms - -[0m
+2025-11-18 16:25 +05:30: [0mGET /api/system/cpu [32m200[0m 45.239 ms - -[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.125 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.458 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.150 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.146 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.127 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.113 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/info [32m200[0m 15.121 ms - 503[0m
+2025-11-18 16:26 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.160 ms - 0[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/cpu [32m200[0m 6.767 ms - -[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/performance [32m200[0m 35.172 ms - -[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/memory [32m200[0m 13.007 ms - 297[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/health [32m200[0m 15.067 ms - 376[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/network [36m304[0m 32.400 ms - -[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/process-stats [32m200[0m 29.674 ms - 817[0m
+2025-11-18 16:26 +05:30: [0mGET /api/system/processes [32m200[0m 257.519 ms - -[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.653 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.251 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.209 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.180 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.105 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.101 ms - 0[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/performance [32m200[0m 33.520 ms - -[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/memory [32m200[0m 16.476 ms - 298[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/cpu [32m200[0m 17.620 ms - -[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/info [32m200[0m 23.674 ms - 515[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/health [32m200[0m 19.246 ms - 222[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.967 ms - 817[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/network [36m304[0m 43.621 ms - -[0m
+2025-11-18 16:27 +05:30: [0mGET /api/system/processes [32m200[0m 368.956 ms - -[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.173 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.087 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.115 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.278 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.134 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.217 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.123 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.213 ms - 0[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/cpu [32m200[0m 31.673 ms - -[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/performance [32m200[0m 29.535 ms - -[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/memory [32m200[0m 20.531 ms - 298[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/health [32m200[0m 30.038 ms - 222[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/info [32m200[0m 29.312 ms - 513[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/network [36m304[0m 34.134 ms - -[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/process-stats [32m200[0m 25.093 ms - 817[0m
+2025-11-18 16:28 +05:30: [0mGET /api/system/processes [32m200[0m 321.570 ms - -[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.193 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.135 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.125 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/memory [32m200[0m 7.517 ms - 298[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.163 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.128 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/cpu [32m200[0m 28.669 ms - -[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/performance [32m200[0m 27.976 ms - -[0m
+2025-11-18 16:29 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.148 ms - 0[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/info [32m200[0m 22.349 ms - 516[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/health [32m200[0m 18.262 ms - 222[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/network [36m304[0m 32.321 ms - -[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/process-stats [32m200[0m 29.701 ms - 817[0m
+2025-11-18 16:29 +05:30: [0mGET /api/system/processes [32m200[0m 283.374 ms - -[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.235 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.230 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.276 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.223 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.257 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.141 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.105 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/memory [32m200[0m 40.934 ms - 297[0m
+2025-11-18 16:30 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.168 ms - 0[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/info [32m200[0m 11.180 ms - 515[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/cpu [32m200[0m 35.880 ms - -[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/performance [32m200[0m 38.647 ms - -[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/health [32m200[0m 11.823 ms - 114[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/network [36m304[0m 26.528 ms - -[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/process-stats [32m200[0m 26.707 ms - 817[0m
+2025-11-18 16:30 +05:30: [0mGET /api/system/processes [32m200[0m 279.654 ms - -[0m
+2025-11-18 16:32 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-18 16:32 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-18 16:32 +05:30: ✅ Database connected successfully
+2025-11-18 16:32 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-18 16:32 +05:30: 📊 Environment: development
+2025-11-18 16:32 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-18 16:32 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463767142 [32m204[0m 1.228 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.159 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.158 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.109 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.175 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.145 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.144 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.123 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463767145 [32m204[0m 0.178 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.142 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.137 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.158 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.093 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.087 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.113 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.118 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.106 ms - 0[0m
+2025-11-18 16:32 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463767142 [32m200[0m 35.042 ms - 261[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/memory [32m200[0m 55.539 ms - 296[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/info [32m200[0m 58.399 ms - 499[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/performance [32m200[0m 58.366 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/cpu [32m200[0m 56.904 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/network [36m304[0m 23.980 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/process-stats [32m200[0m 24.547 ms - 815[0m
+2025-11-18 16:32 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:32 +05:30: Access granted: User is super admin
+2025-11-18 16:32 +05:30: [0mGET /api/system/memory [32m200[0m 18.821 ms - 297[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/info [32m200[0m 18.386 ms - 499[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/health [32m200[0m 99.175 ms - 114[0m
+2025-11-18 16:32 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463767145 [32m200[0m 44.895 ms - 261[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/network [36m304[0m 37.989 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/process-stats [32m200[0m 8.451 ms - 815[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/cpu [32m200[0m 30.448 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/performance [32m200[0m 31.951 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/health [32m200[0m 10.832 ms - 114[0m
+2025-11-18 16:32 +05:30: [0mGET /api/stats/dashboard [32m200[0m 109.937 ms - -[0m
+2025-11-18 16:32 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:32 +05:30: Access granted: User is super admin
+2025-11-18 16:32 +05:30: [0mGET /api/stats/dashboard [32m200[0m 11.174 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/processes [32m200[0m 291.716 ms - -[0m
+2025-11-18 16:32 +05:30: [0mGET /api/system/processes [32m200[0m 185.643 ms - -[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463781639 [32m204[0m 0.331 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 4.561 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.464 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.807 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.269 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.291 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.648 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.458 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.247 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.314 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.377 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.271 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463781642 [32m204[0m 0.883 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.858 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.272 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.646 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.218 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.283 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.588 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.282 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/health [32m200[0m 48.725 ms - 376[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/network [36m304[0m 71.044 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/process-stats [32m200[0m 76.011 ms - 816[0m
+2025-11-18 16:33 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463781639 [32m200[0m 244.574 ms - 261[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/performance [32m200[0m 109.978 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/cpu [32m200[0m 126.857 ms - -[0m
+2025-11-18 16:33 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:33 +05:30: Access granted: User is super admin
+2025-11-18 16:33 +05:30: [0mGET /api/system/memory [32m200[0m 56.603 ms - 296[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/info [32m200[0m 88.867 ms - 498[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/health [32m200[0m 88.235 ms - 269[0m
+2025-11-18 16:33 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763463781642 [32m200[0m 116.907 ms - 261[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/network [36m304[0m 67.127 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/process-stats [32m200[0m 75.373 ms - 815[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/memory [32m200[0m 47.746 ms - 296[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/info [32m200[0m 106.994 ms - 499[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/performance [32m200[0m 191.653 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/cpu [32m200[0m 57.982 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/stats/dashboard [32m200[0m 517.934 ms - -[0m
+2025-11-18 16:33 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 16:33 +05:30: Access granted: User is super admin
+2025-11-18 16:33 +05:30: [0mGET /api/stats/dashboard [32m200[0m 78.468 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/processes [32m200[0m 1101.008 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/processes [32m200[0m 1185.130 ms - -[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.370 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.336 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.232 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/memory [32m200[0m 75.107 ms - 300[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/performance [32m200[0m 92.927 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/cpu [32m200[0m 94.412 ms - -[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.257 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.178 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.177 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.194 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.153 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.069 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.130 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/memory [32m200[0m 19.535 ms - 297[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.094 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/info [32m200[0m 6.060 ms - 501[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/cpu [32m200[0m 21.105 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/performance [32m200[0m 23.434 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/health [32m200[0m 8.045 ms - 376[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/network [36m304[0m 15.759 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.975 ms - 816[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/processes [32m200[0m 189.608 ms - -[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.156 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.118 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.123 ms - 0[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/memory [32m200[0m 20.908 ms - 297[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/performance [32m200[0m 24.066 ms - -[0m
+2025-11-18 16:33 +05:30: [0mGET /api/system/cpu [32m200[0m 22.192 ms - -[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.156 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.131 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.160 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.163 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.135 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.190 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.067 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/memory [32m200[0m 21.427 ms - 297[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/info [32m200[0m 21.419 ms - 501[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/cpu [32m200[0m 23.453 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/performance [32m200[0m 26.146 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/health [32m200[0m 13.499 ms - 376[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/network [36m304[0m 21.273 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.696 ms - 816[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/processes [32m200[0m 192.951 ms - -[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.203 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.140 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.080 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/memory [32m200[0m 16.798 ms - 297[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/performance [32m200[0m 19.908 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/cpu [32m200[0m 18.251 ms - -[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.195 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.186 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.113 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.204 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.121 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.147 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.136 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.123 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/memory [32m200[0m 29.295 ms - 297[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/info [32m200[0m 9.234 ms - 514[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/cpu [32m200[0m 32.149 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/performance [32m200[0m 32.042 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/health [32m200[0m 12.838 ms - 222[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/network [36m304[0m 16.380 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.793 ms - 817[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/processes [32m200[0m 241.133 ms - -[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.163 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.162 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/memory [32m200[0m 18.147 ms - 297[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/cpu [32m200[0m 21.057 ms - -[0m
+2025-11-18 16:34 +05:30: [0mGET /api/system/performance [32m200[0m 23.179 ms - -[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.108 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.102 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.100 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.107 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.089 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/info [32m200[0m 9.778 ms - 514[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/health [32m200[0m 7.681 ms - 222[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/network [36m304[0m 14.513 ms - -[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/process-stats [32m200[0m 13.537 ms - 817[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/processes [32m200[0m 169.961 ms - -[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.339 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.162 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.159 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.107 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/health [32m200[0m 44.756 ms - 376[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/network [36m304[0m 49.834 ms - -[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/info [32m200[0m 57.078 ms - 509[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/process-stats [32m200[0m 50.670 ms - 817[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/processes [32m200[0m 230.724 ms - -[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.176 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.201 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.191 ms - 0[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/memory [32m200[0m 5.014 ms - 297[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/performance [32m200[0m 33.818 ms - -[0m
+2025-11-18 16:35 +05:30: [0mGET /api/system/cpu [32m200[0m 5.996 ms - -[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.265 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.416 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.315 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.155 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.167 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/info [32m200[0m 14.126 ms - 513[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/health [32m200[0m 10.089 ms - 376[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/network [36m304[0m 16.671 ms - -[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.507 ms - 817[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/processes [32m200[0m 185.076 ms - -[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.337 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/performance [32m200[0m 45.379 ms - -[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.242 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.192 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.328 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 1.266 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.232 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.188 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.214 ms - 0[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/memory [32m200[0m 52.708 ms - 296[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/health [32m200[0m 38.421 ms - 376[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/info [32m200[0m 45.704 ms - 513[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/network [36m304[0m 134.597 ms - -[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/cpu [32m200[0m 53.509 ms - -[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/process-stats [32m200[0m 166.682 ms - 816[0m
+2025-11-18 16:36 +05:30: [0mGET /api/system/processes [32m200[0m 790.724 ms - -[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.370 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.261 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.717 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.235 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.722 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/health [32m204[0m 1.229 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.149 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/info [32m200[0m 12.125 ms - 501[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/memory [32m200[0m 11.972 ms - 301[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/performance [32m200[0m 42.991 ms - -[0m
+2025-11-18 16:37 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.178 ms - 0[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/cpu [32m200[0m 12.115 ms - -[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/health [32m200[0m 21.687 ms - 376[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/network [36m304[0m 41.542 ms - -[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/process-stats [32m200[0m 38.638 ms - 817[0m
+2025-11-18 16:37 +05:30: [0mGET /api/system/processes [32m200[0m 262.708 ms - -[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.257 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.598 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.268 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.184 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.182 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.406 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.270 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.243 ms - 0[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/memory [32m200[0m 15.617 ms - 300[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/info [32m200[0m 15.073 ms - 512[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/performance [32m200[0m 39.418 ms - -[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/health [32m200[0m 13.691 ms - 269[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/cpu [32m200[0m 13.410 ms - -[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/network [36m304[0m 17.787 ms - -[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.758 ms - 817[0m
+2025-11-18 16:38 +05:30: [0mGET /api/system/processes [32m200[0m 205.109 ms - -[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.243 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.295 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.158 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.210 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.143 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.126 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/memory [32m200[0m 35.411 ms - 297[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/info [32m200[0m 34.528 ms - 514[0m
+2025-11-18 16:39 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.213 ms - 0[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/health [32m200[0m 9.642 ms - 114[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/cpu [32m200[0m 38.202 ms - -[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/performance [32m200[0m 39.813 ms - -[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/network [36m304[0m 25.411 ms - -[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/process-stats [32m200[0m 18.191 ms - 817[0m
+2025-11-18 16:39 +05:30: [0mGET /api/system/processes [32m200[0m 285.608 ms - -[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.215 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.156 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.128 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.110 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.145 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.182 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/performance [32m200[0m 39.845 ms - -[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.149 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/memory [32m200[0m 22.178 ms - 297[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/info [32m200[0m 21.469 ms - 511[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/health [32m200[0m 17.867 ms - 114[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/network [36m304[0m 25.290 ms - -[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/cpu [32m200[0m 21.637 ms - -[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.861 ms - 817[0m
+2025-11-18 16:40 +05:30: [0mGET /api/system/processes [32m200[0m 204.030 ms - -[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.232 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.160 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.229 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.177 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.143 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.086 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.367 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/memory [32m200[0m 39.947 ms - 297[0m
+2025-11-18 16:41 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.452 ms - 0[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/cpu [32m200[0m 41.814 ms - -[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/performance [32m200[0m 45.300 ms - -[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/info [32m200[0m 20.125 ms - 510[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/health [32m200[0m 15.649 ms - 114[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/network [36m304[0m 29.708 ms - -[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/process-stats [32m200[0m 21.487 ms - 817[0m
+2025-11-18 16:41 +05:30: [0mGET /api/system/processes [32m200[0m 259.304 ms - -[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.243 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.185 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.225 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.212 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.134 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.151 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.237 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/memory [32m200[0m 28.834 ms - 297[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/performance [32m200[0m 50.801 ms - -[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/info [32m200[0m 28.751 ms - 539[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/health [32m200[0m 21.938 ms - 269[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/cpu [32m200[0m 29.129 ms - -[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/network [36m304[0m 30.266 ms - -[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/process-stats [32m200[0m 24.969 ms - 817[0m
+2025-11-18 16:42 +05:30: [0mGET /api/system/processes [32m200[0m 351.896 ms - -[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.277 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.166 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.111 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.141 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.157 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.178 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/memory [32m200[0m 12.849 ms - 297[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/info [32m200[0m 12.665 ms - 498[0m
+2025-11-18 16:43 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.195 ms - 0[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/performance [32m200[0m 30.120 ms - -[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/cpu [32m200[0m 15.148 ms - -[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/health [32m200[0m 13.732 ms - 269[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/network [36m304[0m 21.984 ms - -[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/process-stats [32m200[0m 19.407 ms - 817[0m
+2025-11-18 16:43 +05:30: [0mGET /api/system/processes [32m200[0m 314.362 ms - -[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.269 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.159 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.143 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.179 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.199 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.150 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/memory [32m200[0m 32.916 ms - 297[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.261 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.187 ms - 0[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/info [32m200[0m 11.592 ms - 513[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/cpu [32m200[0m 36.395 ms - -[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/performance [32m200[0m 39.627 ms - -[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/health [32m200[0m 20.252 ms - 114[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/network [36m304[0m 22.912 ms - -[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/process-stats [32m200[0m 20.742 ms - 817[0m
+2025-11-18 16:44 +05:30: [0mGET /api/system/processes [32m200[0m 268.522 ms - -[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.326 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.214 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.344 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.125 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.150 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.143 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.150 ms - 0[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/cpu [32m200[0m 46.137 ms - -[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/performance [32m200[0m 45.418 ms - -[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/memory [32m200[0m 13.834 ms - 297[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/info [32m200[0m 18.481 ms - 525[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/health [32m200[0m 25.992 ms - 114[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/network [36m304[0m 37.226 ms - -[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/process-stats [32m200[0m 19.398 ms - 817[0m
+2025-11-18 16:45 +05:30: [0mGET /api/system/processes [32m200[0m 292.766 ms - -[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.368 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.194 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.169 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.241 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.102 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.110 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/cpu [32m200[0m 34.819 ms - -[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/performance [32m200[0m 38.608 ms - -[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/memory [32m200[0m 18.377 ms - 297[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/info [32m200[0m 18.739 ms - 514[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/health [32m200[0m 12.927 ms - 222[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.162 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/network [36m304[0m 13.989 ms - -[0m
+2025-11-18 16:46 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.157 ms - 0[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/process-stats [32m200[0m 5.143 ms - 817[0m
+2025-11-18 16:46 +05:30: [0mGET /api/system/processes [32m200[0m 330.474 ms - -[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.184 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.171 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.169 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.172 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.180 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.190 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.216 ms - 0[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/performance [32m200[0m 29.702 ms - -[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/memory [32m200[0m 14.008 ms - 298[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/cpu [32m200[0m 18.858 ms - -[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/info [32m200[0m 30.020 ms - 512[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/health [32m200[0m 19.526 ms - 114[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/process-stats [32m200[0m 17.009 ms - 817[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/network [36m304[0m 27.511 ms - -[0m
+2025-11-18 16:47 +05:30: [0mGET /api/system/processes [32m200[0m 313.300 ms - -[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.147 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.128 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.145 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.118 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.148 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/health [32m204[0m 2.524 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.286 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/memory [32m200[0m 40.335 ms - 298[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/info [32m200[0m 40.688 ms - 538[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/health [32m200[0m 15.541 ms - 222[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/cpu [32m200[0m 44.368 ms - -[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/performance [32m200[0m 47.599 ms - -[0m
+2025-11-18 16:48 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.203 ms - 0[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/network [36m304[0m 19.405 ms - -[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/process-stats [32m200[0m 5.516 ms - 817[0m
+2025-11-18 16:48 +05:30: [0mGET /api/system/processes [32m200[0m 310.709 ms - -[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.139 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.109 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.149 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.136 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.192 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/cpu [32m200[0m 39.689 ms - -[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/performance [32m200[0m 43.385 ms - -[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.151 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.130 ms - 0[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/memory [32m200[0m 21.093 ms - 298[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/info [32m200[0m 22.517 ms - 502[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/health [32m200[0m 32.271 ms - 222[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/network [36m304[0m 82.161 ms - -[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/process-stats [32m200[0m 80.372 ms - 818[0m
+2025-11-18 16:49 +05:30: [0mGET /api/system/processes [32m200[0m 359.821 ms - -[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.229 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.111 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.114 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.113 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.161 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.124 ms - 0[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/performance [32m200[0m 27.601 ms - -[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/memory [32m200[0m 40.753 ms - 300[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/info [32m200[0m 70.469 ms - 502[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/health [32m200[0m 79.523 ms - 269[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/network [36m304[0m 35.661 ms - -[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/cpu [32m200[0m 43.141 ms - -[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/process-stats [32m200[0m 39.325 ms - 818[0m
+2025-11-18 16:50 +05:30: [0mGET /api/system/processes [32m200[0m 557.410 ms - -[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.222 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.160 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.134 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/memory [32m200[0m 100.514 ms - 297[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/info [32m200[0m 101.187 ms - 514[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.101 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.085 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/cpu [32m200[0m 106.148 ms - -[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/performance [32m200[0m 83.598 ms - -[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/health [32m200[0m 9.048 ms - 269[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.160 ms - 0[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/network [36m304[0m 105.695 ms - -[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/process-stats [32m200[0m 7.766 ms - 818[0m
+2025-11-18 16:51 +05:30: [0mGET /api/system/processes [32m200[0m 331.489 ms - -[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.290 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.151 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/memory [32m200[0m 49.017 ms - 297[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.102 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.110 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.129 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.183 ms - 0[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/cpu [32m200[0m 50.816 ms - -[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/performance [32m200[0m 38.242 ms - -[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/health [32m200[0m 45.155 ms - 269[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/info [32m200[0m 19.993 ms - 514[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.370 ms - 817[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/network [36m304[0m 58.867 ms - -[0m
+2025-11-18 16:52 +05:30: [0mGET /api/system/processes [32m200[0m 352.521 ms - -[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.205 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.154 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.169 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.172 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/memory [32m200[0m 54.334 ms - 297[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.154 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.253 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/cpu [32m200[0m 53.041 ms - -[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/performance [32m200[0m 57.021 ms - -[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/info [32m200[0m 60.980 ms - 526[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/process-stats [32m200[0m 64.689 ms - 817[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/health [32m200[0m 61.887 ms - 269[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/network [36m304[0m 19.513 ms - -[0m
+2025-11-18 16:53 +05:30: [0mGET /api/system/processes [32m200[0m 523.669 ms - -[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.193 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.148 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.212 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.138 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.113 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/memory [32m200[0m 81.172 ms - 297[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.443 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.122 ms - 0[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/cpu [32m200[0m 76.898 ms - -[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/performance [32m200[0m 51.300 ms - -[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/info [32m200[0m 17.848 ms - 528[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/health [32m200[0m 17.732 ms - 114[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/network [36m304[0m 32.336 ms - -[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 31.799 ms - 818[0m
+2025-11-18 16:54 +05:30: [0mGET /api/system/processes [32m200[0m 488.201 ms - -[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.255 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.211 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.183 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.142 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.325 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.137 ms - 0[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/info [32m200[0m 74.387 ms - 503[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/memory [32m200[0m 60.669 ms - 297[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/cpu [32m200[0m 63.249 ms - -[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/performance [32m200[0m 65.260 ms - -[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/network [36m304[0m 71.093 ms - -[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/process-stats [32m200[0m 72.469 ms - 816[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/health [32m200[0m 32.401 ms - 114[0m
+2025-11-18 16:55 +05:30: [0mGET /api/system/processes [32m200[0m 396.533 ms - -[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.165 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.142 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.226 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.115 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.132 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.137 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.116 ms - 0[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/performance [32m200[0m 36.259 ms - -[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/memory [32m200[0m 46.831 ms - 297[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/info [32m200[0m 48.473 ms - 512[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/network [36m304[0m 59.363 ms - -[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/process-stats [32m200[0m 63.021 ms - 818[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/cpu [32m200[0m 54.168 ms - -[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/health [32m200[0m 25.157 ms - 114[0m
+2025-11-18 16:56 +05:30: [0mGET /api/system/processes [32m200[0m 386.078 ms - -[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.170 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.171 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.173 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.385 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.097 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/memory [32m200[0m 118.569 ms - 297[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/info [32m200[0m 38.592 ms - 512[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.735 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/cpu [32m200[0m 132.508 ms - -[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/performance [32m200[0m 115.349 ms - -[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/health [32m200[0m 8.986 ms - 114[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.148 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/network [36m304[0m 12.750 ms - -[0m
+2025-11-18 16:57 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.140 ms - 0[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.176 ms - 817[0m
+2025-11-18 16:57 +05:30: [0mGET /api/system/processes [32m200[0m 337.752 ms - -[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.171 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.136 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.099 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.876 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.223 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.102 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.099 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/memory [32m200[0m 52.036 ms - 297[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/network [36m304[0m 32.535 ms - -[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/cpu [32m200[0m 78.836 ms - -[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/performance [32m200[0m 82.792 ms - -[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/info [32m200[0m 36.233 ms - 503[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/health [32m200[0m 11.507 ms - 222[0m
+2025-11-18 16:58 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.231 ms - 0[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/process-stats [32m200[0m 4.223 ms - 818[0m
+2025-11-18 16:58 +05:30: [0mGET /api/system/processes [32m200[0m 393.297 ms - -[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.499 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.540 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.152 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.091 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.103 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.106 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/cpu [32m200[0m 64.894 ms - -[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/performance [32m200[0m 63.877 ms - -[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/info [32m200[0m 39.222 ms - 503[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/memory [32m200[0m 32.108 ms - 298[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.114 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/health [32m200[0m 23.815 ms - 222[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/network [36m304[0m 39.050 ms - -[0m
+2025-11-18 16:59 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.112 ms - 0[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/process-stats [32m200[0m 4.765 ms - 818[0m
+2025-11-18 16:59 +05:30: [0mGET /api/system/processes [32m200[0m 435.710 ms - -[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.250 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.208 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.119 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.130 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.128 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.149 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/performance [32m200[0m 40.530 ms - -[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/memory [32m200[0m 54.965 ms - 297[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/cpu [32m200[0m 24.547 ms - -[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/info [32m200[0m 70.446 ms - 514[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/health [32m200[0m 103.621 ms - 376[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.119 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/network [36m304[0m 27.084 ms - -[0m
+2025-11-18 17:00 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.124 ms - 0[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/process-stats [32m200[0m 5.975 ms - 818[0m
+2025-11-18 17:00 +05:30: [0mGET /api/system/processes [32m200[0m 585.115 ms - -[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.204 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.166 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.124 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.161 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.172 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.109 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.151 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/memory [32m200[0m 65.933 ms - 298[0m
+2025-11-18 17:01 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.245 ms - 0[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/info [32m200[0m 30.212 ms - 516[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/cpu [32m200[0m 48.105 ms - -[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/performance [32m200[0m 47.480 ms - -[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/health [32m200[0m 21.083 ms - 376[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/process-stats [32m200[0m 17.587 ms - 818[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/network [36m304[0m 26.063 ms - -[0m
+2025-11-18 17:01 +05:30: [0mGET /api/system/processes [32m200[0m 424.261 ms - -[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.248 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.591 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.162 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.725 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/memory [32m200[0m 31.179 ms - 297[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/info [32m200[0m 10.879 ms - 514[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/cpu [32m200[0m 37.523 ms - -[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/performance [32m200[0m 46.148 ms - -[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.104 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/processes [32m200[0m 399.664 ms - -[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.176 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.140 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/health [32m200[0m 21.985 ms - 269[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/network [36m304[0m 34.709 ms - -[0m
+2025-11-18 17:02 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.128 ms - 0[0m
+2025-11-18 17:02 +05:30: [0mGET /api/system/process-stats [32m200[0m 6.144 ms - 818[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.374 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.198 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.125 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.198 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/performance [32m200[0m 39.215 ms - -[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/memory [32m200[0m 11.400 ms - 297[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/cpu [32m200[0m 26.588 ms - -[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/info [32m200[0m 8.774 ms - 516[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.106 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.126 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.107 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.118 ms - 0[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/health [32m200[0m 14.119 ms - 114[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/network [36m304[0m 23.097 ms - -[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/process-stats [32m200[0m 21.077 ms - 818[0m
+2025-11-18 17:03 +05:30: [0mGET /api/system/processes [32m200[0m 387.060 ms - -[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.400 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.268 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.135 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.142 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.192 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.121 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.097 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.123 ms - 0[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/performance [32m200[0m 51.462 ms - -[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/memory [32m200[0m 41.607 ms - 297[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/info [32m200[0m 82.525 ms - 503[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/health [32m200[0m 86.621 ms - 114[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/process-stats [32m200[0m 41.837 ms - 818[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/network [36m304[0m 53.534 ms - -[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/cpu [32m200[0m 54.068 ms - -[0m
+2025-11-18 17:04 +05:30: [0mGET /api/system/processes [32m200[0m 445.552 ms - -[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.177 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.307 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.424 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.095 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.137 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.143 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.114 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/memory [32m200[0m 66.095 ms - 297[0m
+2025-11-18 17:05 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.107 ms - 0[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/cpu [32m200[0m 61.154 ms - -[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/performance [32m200[0m 60.615 ms - -[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/info [32m200[0m 17.788 ms - 503[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/health [32m200[0m 34.613 ms - 114[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/process-stats [32m200[0m 27.411 ms - 817[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/network [36m304[0m 45.710 ms - -[0m
+2025-11-18 17:05 +05:30: [0mGET /api/system/processes [32m200[0m 327.568 ms - -[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.147 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.116 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.170 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.166 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.098 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.120 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.098 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/memory [32m200[0m 15.769 ms - 297[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/performance [32m200[0m 36.282 ms - -[0m
+2025-11-18 17:06 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.093 ms - 0[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/info [32m200[0m 16.063 ms - 515[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/cpu [32m200[0m 17.009 ms - -[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/network [36m304[0m 28.283 ms - -[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/health [32m200[0m 40.923 ms - 114[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/process-stats [32m200[0m 38.596 ms - 818[0m
+2025-11-18 17:06 +05:30: [0mGET /api/system/processes [32m200[0m 305.245 ms - -[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.162 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.122 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.177 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.125 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.171 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.089 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.264 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/memory [32m200[0m 43.127 ms - 297[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/info [32m200[0m 16.096 ms - 513[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/cpu [32m200[0m 39.027 ms - -[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/performance [32m200[0m 43.509 ms - -[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/health [32m200[0m 13.489 ms - 114[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/network [36m304[0m 26.337 ms - -[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/processes [32m200[0m 315.232 ms - -[0m
+2025-11-18 17:07 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.128 ms - 0[0m
+2025-11-18 17:07 +05:30: [0mGET /api/system/process-stats [32m200[0m 2.916 ms - 818[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.177 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.166 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.276 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.090 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.092 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.123 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/info [32m200[0m 16.242 ms - 503[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/memory [32m200[0m 14.203 ms - 297[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/performance [32m200[0m 44.428 ms - -[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/cpu [32m200[0m 41.122 ms - -[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/health [32m200[0m 15.055 ms - 114[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/processes [32m200[0m 312.262 ms - -[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.103 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/network [36m304[0m 16.704 ms - -[0m
+2025-11-18 17:08 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.115 ms - 0[0m
+2025-11-18 17:08 +05:30: [0mGET /api/system/process-stats [32m200[0m 4.523 ms - 818[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.207 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.179 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.171 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.192 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.146 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.117 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.117 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.111 ms - 0[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/memory [32m200[0m 13.161 ms - 301[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/info [32m200[0m 15.164 ms - 515[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/performance [32m200[0m 41.015 ms - -[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/health [32m200[0m 11.235 ms - 114[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/cpu [32m200[0m 15.036 ms - -[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/process-stats [32m200[0m 12.005 ms - 818[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/network [36m304[0m 34.298 ms - -[0m
+2025-11-18 17:09 +05:30: [0mGET /api/system/processes [32m200[0m 307.903 ms - -[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.201 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.234 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.179 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.851 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.094 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.758 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.130 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.447 ms - 0[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/memory [32m200[0m 16.867 ms - 297[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/info [32m200[0m 15.214 ms - 540[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/health [32m200[0m 28.755 ms - 114[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/performance [32m200[0m 53.728 ms - -[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/cpu [32m200[0m 46.338 ms - -[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/network [36m304[0m 30.824 ms - -[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/process-stats [32m200[0m 31.629 ms - 818[0m
+2025-11-18 17:10 +05:30: [0mGET /api/system/processes [32m200[0m 373.534 ms - -[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.236 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.235 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.240 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.256 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.180 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.091 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/memory [32m200[0m 52.800 ms - 298[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/info [32m200[0m 50.782 ms - 540[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.107 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.191 ms - 0[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/cpu [32m200[0m 54.246 ms - -[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/performance [32m200[0m 57.353 ms - -[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/health [32m200[0m 22.643 ms - 269[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/network [36m304[0m 30.526 ms - -[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/process-stats [32m200[0m 27.527 ms - 818[0m
+2025-11-18 17:11 +05:30: [0mGET /api/system/processes [32m200[0m 363.169 ms - -[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.165 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.286 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.170 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.432 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.092 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/network [32m204[0m 3.443 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.099 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/memory [32m200[0m 11.368 ms - 298[0m
+2025-11-18 17:12 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.095 ms - 0[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/info [32m200[0m 14.406 ms - 515[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/cpu [32m200[0m 60.344 ms - -[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/performance [32m200[0m 45.426 ms - -[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/network [36m304[0m 32.075 ms - -[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/process-stats [32m200[0m 28.760 ms - 818[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/health [32m200[0m 27.354 ms - 269[0m
+2025-11-18 17:12 +05:30: [0mGET /api/system/processes [32m200[0m 365.990 ms - -[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.258 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.305 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.109 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.131 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.171 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.160 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/performance [32m200[0m 40.491 ms - -[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/cpu [32m200[0m 41.336 ms - -[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/network [32m204[0m 1.525 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/memory [32m200[0m 15.864 ms - 298[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/info [32m200[0m 16.349 ms - 501[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/health [32m200[0m 21.531 ms - 376[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/network [36m304[0m 43.529 ms - -[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/processes [32m200[0m 328.407 ms - -[0m
+2025-11-18 17:13 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.118 ms - 0[0m
+2025-11-18 17:13 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.365 ms - 818[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.281 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.380 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.293 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.103 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.114 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/memory [32m200[0m 37.425 ms - 301[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.092 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/info [32m200[0m 9.684 ms - 503[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/performance [32m200[0m 36.273 ms - -[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/cpu [32m200[0m 34.269 ms - -[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/health [32m200[0m 5.820 ms - 114[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/processes [32m200[0m 358.815 ms - -[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.144 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/network [36m304[0m 20.535 ms - -[0m
+2025-11-18 17:14 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.106 ms - 0[0m
+2025-11-18 17:14 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.310 ms - 818[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.205 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.199 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.124 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.114 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.107 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.184 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.331 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.271 ms - 0[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/performance [32m200[0m 48.171 ms - -[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/memory [32m200[0m 43.608 ms - 301[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/info [32m200[0m 96.394 ms - 503[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/cpu [32m200[0m 12.788 ms - -[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/health [32m200[0m 110.782 ms - 114[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/network [36m304[0m 65.255 ms - -[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/process-stats [32m200[0m 34.996 ms - 818[0m
+2025-11-18 17:15 +05:30: [0mGET /api/system/processes [32m200[0m 464.187 ms - -[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.157 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.136 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.718 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.139 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.187 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.108 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.216 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.101 ms - 0[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/memory [32m200[0m 71.243 ms - 297[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/info [32m200[0m 32.341 ms - 527[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/performance [32m200[0m 40.273 ms - -[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/cpu [32m200[0m 73.669 ms - -[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/health [32m200[0m 66.834 ms - 269[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/network [36m304[0m 83.862 ms - -[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/process-stats [32m200[0m 24.109 ms - 818[0m
+2025-11-18 17:16 +05:30: [0mGET /api/system/processes [32m200[0m 596.549 ms - -[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.197 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.091 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.111 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.108 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.171 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.909 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.147 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.105 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/performance [32m200[0m 30.024 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/memory [32m200[0m 10.869 ms - 301[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/cpu [32m200[0m 13.552 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/info [32m200[0m 11.002 ms - 514[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/health [32m200[0m 12.280 ms - 114[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/network [36m304[0m 25.505 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/process-stats [32m200[0m 19.262 ms - 816[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/processes [32m200[0m 321.191 ms - -[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466477339 [32m204[0m 0.202 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.128 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.078 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.153 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.198 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.275 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.139 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.216 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.091 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/memory [32m200[0m 40.170 ms - 301[0m
+2025-11-18 17:17 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466477339 [32m200[0m 64.652 ms - 261[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.174 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466477342 [32m204[0m 0.163 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.150 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.152 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/cpu [32m200[0m 42.872 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/performance [32m200[0m 41.096 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/health [32m200[0m 32.338 ms - 114[0m
+2025-11-18 17:17 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.156 ms - 0[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/info [32m200[0m 25.468 ms - 529[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/network [36m304[0m 58.949 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/process-stats [32m200[0m 52.904 ms - 818[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/memory [32m200[0m 52.870 ms - 301[0m
+2025-11-18 17:17 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:17 +05:30: Access granted: User is super admin
+2025-11-18 17:17 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466477342 [32m200[0m 91.508 ms - 261[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/health [32m200[0m 207.633 ms - 114[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/cpu [32m200[0m 31.982 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/performance [32m200[0m 200.557 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/info [32m200[0m 23.647 ms - 529[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/network [36m304[0m 113.880 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/process-stats [32m200[0m 16.030 ms - 818[0m
+2025-11-18 17:17 +05:30: [0mGET /api/stats/dashboard [32m200[0m 452.272 ms - -[0m
+2025-11-18 17:17 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:17 +05:30: Access granted: User is super admin
+2025-11-18 17:17 +05:30: [0mGET /api/stats/dashboard [32m200[0m 24.680 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/processes [32m200[0m 648.819 ms - -[0m
+2025-11-18 17:17 +05:30: [0mGET /api/system/processes [32m200[0m 532.541 ms - -[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466487429 [32m204[0m 0.069 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m204[0m 0.137 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/roles/simple [32m204[0m 0.139 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466487429 [32m204[0m 0.152 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m204[0m 0.132 ms - 0[0m
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466487429 [32m200[0m 28.620 ms - 261[0m
+2025-11-18 17:18 +05:30: [0mGET /api/roles/simple [32m200[0m 25.014 ms - 454[0m
+2025-11-18 17:18 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466487429 [36m304[0m 16.578 ms - -[0m
+2025-11-18 17:18 +05:30: [0mGET /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m200[0m 38.303 ms - -[0m
+2025-11-18 17:18 +05:30: [0mGET /api/roles/simple [36m304[0m 10.067 ms - -[0m
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: [0mGET /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [36m304[0m 8.755 ms - -[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466489038 [32m204[0m 0.095 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1763466489039&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.112 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.447 ms - 0[0m
+2025-11-18 17:18 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466489039 [32m204[0m 0.070 ms - 0[0m
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: 📥 GET /roles request - Query params: {
+2025-11-18 17:18 +05:30:   params: { _t: '1763466489039' },
+2025-11-18 17:18 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-18 17:18 +05:30: }
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466489038 [32m200[0m 25.010 ms - 261[0m
+2025-11-18 17:18 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763466489039 [32m200[0m 21.594 ms - 261[0m
+2025-11-18 17:18 +05:30: 📊 Roles query result: 5 roles found
+2025-11-18 17:18 +05:30: [0mGET /api/pages [32m200[0m 27.668 ms - -[0m
+2025-11-18 17:18 +05:30: [0mGET /api/roles?params%5B_t%5D=1763466489039&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 28.793 ms - -[0m
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-18 17:18 +05:30: Access granted: User is super admin
+2025-11-18 17:18 +05:30: 📥 GET /roles request - Query params: {
+2025-11-18 17:18 +05:30:   params: { _t: '1763466489039' },
+2025-11-18 17:18 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-18 17:18 +05:30: }
+2025-11-18 17:18 +05:30: [0mGET /api/pages [36m304[0m 9.109 ms - -[0m
+2025-11-18 17:18 +05:30: 📊 Roles query result: 5 roles found
+2025-11-18 17:18 +05:30: [0mGET /api/roles?params%5B_t%5D=1763466489039&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [36m304[0m 8.529 ms - -[0m
+2025-11-18 19:43 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-18 19:43 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-18 19:43 +05:30: ✅ Database connected successfully
+2025-11-18 19:43 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-18 19:43 +05:30: 📊 Environment: development
+2025-11-18 19:43 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-18 19:43 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-19 09:21 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-19 09:21 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-19 09:21 +05:30: ✅ Database connected successfully
+2025-11-19 09:21 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-19 09:21 +05:30: 📊 Environment: development
+2025-11-19 09:21 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-19 09:21 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763540658635 [32m204[0m 2.613 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.496 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.122 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.165 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.150 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.285 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.550 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.139 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.138 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.197 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763540658637 [32m204[0m 0.101 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.116 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.095 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.121 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.090 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.104 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.104 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.084 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.070 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.090 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/info [32m200[0m 127.613 ms - 513[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/memory [32m200[0m 133.563 ms - 295[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/health [32m200[0m 150.978 ms - 114[0m
+2025-11-19 13:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763540658635 [32m200[0m 190.188 ms - 261[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/cpu [32m200[0m 125.698 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/network [36m304[0m 23.127 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 24.204 ms - 818[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/performance [32m200[0m 162.594 ms - -[0m
+2025-11-19 13:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-19 13:54 +05:30: Access granted: User is super admin
+2025-11-19 13:54 +05:30: [0mGET /api/system/info [32m200[0m 29.762 ms - 513[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/memory [32m200[0m 27.961 ms - 296[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/health [32m200[0m 31.123 ms - 114[0m
+2025-11-19 13:54 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763540658637 [32m200[0m 61.246 ms - 261[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/network [36m304[0m 26.163 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 13.579 ms - 818[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/cpu [32m200[0m 22.042 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/performance [32m200[0m 34.148 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 153.508 ms - -[0m
+2025-11-19 13:54 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-19 13:54 +05:30: Access granted: User is super admin
+2025-11-19 13:54 +05:30: [0mGET /api/stats/dashboard [32m200[0m 7.653 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/processes [32m200[0m 242.221 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/processes [32m200[0m 190.453 ms - -[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.314 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.479 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.267 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/memory [32m200[0m 25.224 ms - 296[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/cpu [32m200[0m 28.533 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/performance [32m200[0m 32.045 ms - -[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.433 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.212 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.244 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.185 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.663 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.536 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.245 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 1.459 ms - 0[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/memory [32m200[0m 47.707 ms - 296[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/info [32m200[0m 51.107 ms - 538[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/network [36m304[0m 28.981 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/cpu [32m200[0m 50.209 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/performance [32m200[0m 53.585 ms - -[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/health [32m200[0m 51.542 ms - 222[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.524 ms - 818[0m
+2025-11-19 13:54 +05:30: [0mGET /api/system/processes [32m200[0m 380.747 ms - -[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.086 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.085 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.074 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/memory [32m200[0m 15.047 ms - 301[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/cpu [32m200[0m 15.918 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/performance [32m200[0m 16.725 ms - -[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.197 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.151 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.150 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.210 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.127 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.086 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/memory [32m200[0m 20.575 ms - 301[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/info [32m200[0m 19.882 ms - 514[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.097 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.077 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/cpu [32m200[0m 22.056 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/performance [32m200[0m 22.054 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/health [32m200[0m 8.033 ms - 222[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/network [36m304[0m 16.248 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.802 ms - 818[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/processes [32m200[0m 146.893 ms - -[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.152 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.099 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.155 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/memory [32m200[0m 19.716 ms - 301[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/cpu [32m200[0m 21.092 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/performance [32m200[0m 22.079 ms - -[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.215 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.086 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.077 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.074 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.102 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.127 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.067 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/memory [32m200[0m 20.169 ms - 296[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/info [32m200[0m 20.103 ms - 526[0m
+2025-11-19 13:55 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.121 ms - 0[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/cpu [32m200[0m 21.232 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/performance [32m200[0m 22.859 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/health [32m200[0m 10.322 ms - 222[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/network [36m304[0m 14.718 ms - -[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/process-stats [32m200[0m 13.031 ms - 818[0m
+2025-11-19 13:55 +05:30: [0mGET /api/system/processes [32m200[0m 161.805 ms - -[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.225 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.234 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.203 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/memory [32m200[0m 27.427 ms - 296[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/cpu [32m200[0m 29.432 ms - -[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/performance [32m200[0m 32.174 ms - -[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.816 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.367 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.300 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.190 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.194 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/info [32m200[0m 18.341 ms - 526[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/health [32m200[0m 13.206 ms - 222[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/network [36m304[0m 17.979 ms - -[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.262 ms - 818[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/processes [32m200[0m 148.243 ms - -[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.083 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.078 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.195 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/memory [32m200[0m 15.254 ms - 296[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/cpu [32m200[0m 16.361 ms - -[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/performance [32m200[0m 17.205 ms - -[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.154 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.204 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.225 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.216 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.147 ms - 0[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/info [32m200[0m 18.066 ms - 525[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/health [32m200[0m 15.077 ms - 222[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/network [36m304[0m 18.722 ms - -[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.746 ms - 818[0m
+2025-11-19 13:56 +05:30: [0mGET /api/system/processes [32m200[0m 165.166 ms - -[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.177 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.091 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.080 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.086 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.505 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/info [32m200[0m 10.133 ms - 525[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/health [32m200[0m 6.736 ms - 222[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/network [36m304[0m 13.931 ms - -[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/process-stats [32m200[0m 9.897 ms - 817[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/processes [32m200[0m 133.067 ms - -[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.121 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.089 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.091 ms - 0[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/memory [32m200[0m 15.305 ms - 296[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/cpu [32m200[0m 16.354 ms - -[0m
+2025-11-19 13:57 +05:30: [0mGET /api/system/performance [32m200[0m 17.296 ms - -[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.135 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.081 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.075 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.134 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.078 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.079 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.123 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.068 ms - 0[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/memory [32m200[0m 21.213 ms - 301[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/info [32m200[0m 20.260 ms - 525[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/cpu [32m200[0m 23.536 ms - -[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/performance [32m200[0m 24.319 ms - -[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/health [32m200[0m 9.289 ms - 222[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/network [36m304[0m 18.569 ms - -[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/process-stats [32m200[0m 17.147 ms - 817[0m
+2025-11-19 13:58 +05:30: [0mGET /api/system/processes [32m200[0m 155.836 ms - -[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.903 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.093 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.074 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.126 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.141 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.079 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/memory [32m200[0m 23.035 ms - 302[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/info [32m200[0m 22.831 ms - 525[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.099 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.111 ms - 0[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/cpu [32m200[0m 24.138 ms - -[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/performance [32m200[0m 25.285 ms - -[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/health [32m200[0m 4.474 ms - 222[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/network [36m304[0m 10.233 ms - -[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/process-stats [32m200[0m 3.534 ms - 818[0m
+2025-11-19 13:59 +05:30: [0mGET /api/system/processes [32m200[0m 161.764 ms - -[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.253 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.187 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.149 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.157 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.294 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.082 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.160 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/memory [32m200[0m 30.663 ms - 302[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/info [32m200[0m 31.543 ms - 526[0m
+2025-11-19 14:00 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.221 ms - 0[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/cpu [32m200[0m 31.977 ms - -[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/performance [32m200[0m 33.615 ms - -[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/health [32m200[0m 15.165 ms - 222[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/network [36m304[0m 29.033 ms - -[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/process-stats [32m200[0m 28.748 ms - 818[0m
+2025-11-19 14:00 +05:30: [0mGET /api/system/processes [32m200[0m 287.607 ms - -[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.315 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.162 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.190 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.161 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.234 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.144 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.096 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/memory [32m200[0m 21.227 ms - 297[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/info [32m200[0m 21.472 ms - 514[0m
+2025-11-19 14:01 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.127 ms - 0[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/health [32m200[0m 8.242 ms - 269[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/cpu [32m200[0m 22.345 ms - -[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/performance [32m200[0m 24.013 ms - -[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/network [36m304[0m 16.941 ms - -[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/process-stats [32m200[0m 12.565 ms - 818[0m
+2025-11-19 14:01 +05:30: [0mGET /api/system/processes [32m200[0m 180.408 ms - -[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.294 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.085 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.097 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.104 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.088 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.093 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.072 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/memory [32m200[0m 24.131 ms - 297[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/info [32m200[0m 24.150 ms - 513[0m
+2025-11-19 14:02 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.110 ms - 0[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/health [32m200[0m 5.254 ms - 222[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/cpu [32m200[0m 25.021 ms - -[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/performance [32m200[0m 26.004 ms - -[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/network [36m304[0m 16.381 ms - -[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.118 ms - 817[0m
+2025-11-19 14:02 +05:30: [0mGET /api/system/processes [32m200[0m 198.130 ms - -[0m
+2025-11-19 14:03 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-19 14:03 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-19 14:03 +05:30: ✅ Database connected successfully
+2025-11-19 14:03 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-19 14:03 +05:30: 📊 Environment: development
+2025-11-19 14:03 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-19 14:03 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 1.313 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.338 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.390 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.257 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.188 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.195 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.192 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.167 ms - 0[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/memory [32m200[0m 57.213 ms - 296[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/cpu [32m200[0m 40.952 ms - -[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/info [32m200[0m 107.049 ms - 507[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/health [32m200[0m 102.239 ms - 114[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/network [36m304[0m 18.378 ms - -[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/performance [32m200[0m 109.270 ms - -[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/process-stats [32m200[0m 20.105 ms - 813[0m
+2025-11-19 14:03 +05:30: [0mGET /api/system/processes [32m200[0m 308.313 ms - -[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.212 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.120 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.121 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.130 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.108 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.093 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.089 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.115 ms - 0[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/memory [32m200[0m 22.558 ms - 297[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/info [32m200[0m 8.843 ms - 509[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/health [32m200[0m 7.627 ms - 222[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/performance [32m200[0m 22.716 ms - -[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/cpu [32m200[0m 23.711 ms - -[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/network [36m304[0m 15.796 ms - -[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/process-stats [32m200[0m 15.957 ms - 814[0m
+2025-11-19 14:04 +05:30: [0mGET /api/system/processes [32m200[0m 162.503 ms - -[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.107 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.097 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.136 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.122 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.096 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.076 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.107 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.100 ms - 0[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/memory [32m200[0m 18.544 ms - 301[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/info [32m200[0m 7.013 ms - 498[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/health [32m200[0m 6.018 ms - 222[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/cpu [32m200[0m 19.721 ms - -[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/performance [32m200[0m 20.920 ms - -[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/network [36m304[0m 14.369 ms - -[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/process-stats [32m200[0m 2.573 ms - 814[0m
+2025-11-19 14:05 +05:30: [0mGET /api/system/processes [32m200[0m 149.702 ms - -[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.291 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.089 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.084 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.087 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.077 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.083 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/memory [32m200[0m 18.154 ms - 297[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/info [32m200[0m 18.621 ms - 510[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.129 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.098 ms - 0[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/network [36m304[0m 12.455 ms - -[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/cpu [32m200[0m 19.049 ms - -[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/performance [32m200[0m 19.825 ms - -[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/health [32m200[0m 15.934 ms - 222[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/process-stats [32m200[0m 4.663 ms - 815[0m
+2025-11-19 14:06 +05:30: [0mGET /api/system/processes [32m200[0m 159.170 ms - -[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.477 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.225 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.230 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.970 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.195 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.154 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.118 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/memory [32m200[0m 33.863 ms - 298[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/info [32m200[0m 37.418 ms - 510[0m
+2025-11-19 14:07 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.150 ms - 0[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/health [32m200[0m 65.904 ms - 222[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/performance [32m200[0m 38.735 ms - -[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/cpu [32m200[0m 36.233 ms - -[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/network [36m304[0m 50.608 ms - -[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/process-stats [32m200[0m 13.162 ms - 815[0m
+2025-11-19 14:07 +05:30: [0mGET /api/system/processes [32m200[0m 295.489 ms - -[0m
+2025-11-19 14:15 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-19 14:15 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-19 14:15 +05:30: ✅ Database connected successfully
+2025-11-19 14:15 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-19 14:15 +05:30: 📊 Environment: development
+2025-11-19 14:15 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-19 14:15 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-20 10:25 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-20 10:25 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-20 10:25 +05:30: ✅ Database connected successfully
+2025-11-20 10:25 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-20 10:25 +05:30: 📊 Environment: development
+2025-11-20 10:25 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-20 10:25 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/auth/login [32m204[0m 2.678 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mPOST /api/auth/login [32m200[0m 593.297 ms - 665[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615388882 [32m204[0m 0.267 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.310 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.390 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.237 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.137 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.190 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.103 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.128 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.296 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.152 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615388886 [32m204[0m 0.397 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.137 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/memory [32m200[0m 10.613 ms - 296[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.269 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615388882 [32m200[0m 81.081 ms - 261[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.199 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/cpu [32m200[0m 15.126 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/performance [32m200[0m 47.788 ms - -[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.198 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.108 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.154 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/info [32m200[0m 41.832 ms - 500[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/process-stats [32m200[0m 10.983 ms - 816[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: [0mGET /api/system/network [32m200[0m 68.981 ms - 398[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/health [32m200[0m 92.434 ms - 114[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/memory [32m200[0m 47.595 ms - 296[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/info [32m200[0m 36.355 ms - 500[0m
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615388886 [32m200[0m 135.089 ms - 261[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/cpu [32m200[0m 17.250 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/performance [32m200[0m 40.882 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/process-stats [32m200[0m 14.010 ms - 816[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/network [36m304[0m 23.711 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/health [32m200[0m 24.675 ms - 114[0m
+2025-11-20 10:39 +05:30: [0mGET /api/stats/dashboard [32m200[0m 189.949 ms - -[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: [0mGET /api/stats/dashboard [32m200[0m 14.328 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/processes [32m200[0m 392.780 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/system/processes [32m200[0m 268.822 ms - -[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615396539 [32m204[0m 0.197 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1763615396539&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.252 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.297 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615396540 [32m204[0m 0.213 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/roles?params%5B_t%5D=1763615396540&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m204[0m 0.187 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages [32m204[0m 0.234 ms - 0[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: 📥 GET /roles request - Query params: {
+2025-11-20 10:39 +05:30:   params: { _t: '1763615396539' },
+2025-11-20 10:39 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-20 10:39 +05:30: }
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: 📥 GET /roles request - Query params: {
+2025-11-20 10:39 +05:30:   params: { _t: '1763615396540' },
+2025-11-20 10:39 +05:30:   headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+2025-11-20 10:39 +05:30: }
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615396539 [32m200[0m 42.148 ms - 261[0m
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615396540 [32m200[0m 33.990 ms - 261[0m
+2025-11-20 10:39 +05:30: 📊 Roles query result: 5 roles found
+2025-11-20 10:39 +05:30: 📊 Roles query result: 5 roles found
+2025-11-20 10:39 +05:30: [0mGET /api/roles?params%5B_t%5D=1763615396539&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 46.664 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/roles?params%5B_t%5D=1763615396540&headers%5BCache-Control%5D=no-cache,+no-store,+must-revalidate [32m200[0m 45.828 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/pages [32m200[0m 51.207 ms - -[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: [0mGET /api/pages [36m304[0m 16.897 ms - -[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615399100 [32m204[0m 0.188 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m204[0m 0.380 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/roles/simple [32m204[0m 0.281 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615399102 [32m204[0m 0.238 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m204[0m 0.202 ms - 0[0m
+2025-11-20 10:39 +05:30: [0mOPTIONS /api/roles/simple [32m204[0m 0.191 ms - 0[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615399100 [32m200[0m 32.163 ms - 261[0m
+2025-11-20 10:39 +05:30: [0mGET /api/roles/simple [32m200[0m 24.448 ms - 454[0m
+2025-11-20 10:39 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615399102 [32m200[0m 29.578 ms - 261[0m
+2025-11-20 10:39 +05:30: [0mGET /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [32m200[0m 41.507 ms - -[0m
+2025-11-20 10:39 +05:30: [0mGET /api/roles/simple [36m304[0m 13.134 ms - -[0m
+2025-11-20 10:39 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:39 +05:30: Access granted: User is super admin
+2025-11-20 10:39 +05:30: [0mGET /api/users?params%5Bpage%5D=1&params%5Blimit%5D=10&params%5Bsearch%5D= [36m304[0m 10.499 ms - -[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615403065 [32m204[0m 0.228 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/performance [32m204[0m 0.226 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/cpu [32m204[0m 0.308 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/memory [32m204[0m 0.226 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/info [32m204[0m 0.161 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/processes [32m204[0m 0.287 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.262 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615403065 [32m200[0m 31.621 ms - 261[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/memory [32m200[0m 38.585 ms - 297[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.170 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.109 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/info [32m200[0m 32.643 ms - 500[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.162 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615403066 [32m204[0m 0.112 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/cpu [32m200[0m 40.747 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/performance [32m200[0m 43.140 ms - -[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/health [32m204[0m 0.130 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/network [32m204[0m 0.138 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/system/process-stats [32m204[0m 0.281 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mOPTIONS /api/stats/dashboard [32m204[0m 0.174 ms - 0[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/health [32m200[0m 19.065 ms - 114[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/memory [32m200[0m 17.223 ms - 297[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/network [36m304[0m 29.668 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/process-stats [32m200[0m 26.052 ms - 816[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/info [32m200[0m 33.151 ms - 500[0m
+2025-11-20 10:40 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:40 +05:30: Access granted: User is super admin
+2025-11-20 10:40 +05:30: [0mGET /api/system/health [32m200[0m 49.783 ms - 114[0m
+2025-11-20 10:40 +05:30: [0mGET /api/pages/my-pages-hierarchy?params%5B_t%5D=1763615403066 [32m200[0m 66.342 ms - 261[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/cpu [32m200[0m 22.641 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/performance [32m200[0m 50.652 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/network [36m304[0m 27.359 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/process-stats [32m200[0m 18.348 ms - 815[0m
+2025-11-20 10:40 +05:30: [0mGET /api/stats/dashboard [32m200[0m 106.763 ms - -[0m
+2025-11-20 10:40 +05:30: requireAssignedPages check for user: superadmin (ID: 1), roles: super_admin
+2025-11-20 10:40 +05:30: Access granted: User is super admin
+2025-11-20 10:40 +05:30: [0mGET /api/stats/dashboard [32m200[0m 26.991 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/processes [32m200[0m 359.143 ms - -[0m
+2025-11-20 10:40 +05:30: [0mGET /api/system/processes [32m200[0m 299.118 ms - -[0m
+2025-11-21 10:34 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-21 10:34 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-21 10:34 +05:30: ✅ Database connected successfully
+2025-11-21 10:34 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-21 10:34 +05:30: 📊 Environment: development
+2025-11-21 10:34 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-21 10:34 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-21 20:34 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-21 20:34 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-21 20:34 +05:30: ✅ Database connected successfully
+2025-11-21 20:34 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-21 20:34 +05:30: 📊 Environment: development
+2025-11-21 20:34 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-21 20:34 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-23 12:09 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-23 12:09 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-23 12:09 +05:30: ✅ Database connected successfully
+2025-11-23 12:09 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-23 12:09 +05:30: 📊 Environment: development
+2025-11-23 12:09 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-23 12:09 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-23 20:49 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-23 20:49 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-23 20:49 +05:30: ✅ Database connected successfully
+2025-11-23 20:49 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-23 20:49 +05:30: 📊 Environment: development
+2025-11-23 20:49 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-23 20:49 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-11-30 18:30 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-11-30 18:30 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-11-30 18:30 +05:30: ✅ Database connected successfully
+2025-11-30 18:30 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-11-30 18:30 +05:30: 📊 Environment: development
+2025-11-30 18:30 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-11-30 18:30 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-01 12:56 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-01 12:56 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-01 12:56 +05:30: ✅ Database connected successfully
+2025-12-01 12:56 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-01 12:56 +05:30: 📊 Environment: development
+2025-12-01 12:56 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-01 12:56 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-02 14:37 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-02 14:37 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-02 14:37 +05:30: ✅ Database connected successfully
+2025-12-02 14:37 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-02 14:37 +05:30: 📊 Environment: development
+2025-12-02 14:37 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-02 14:37 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-02 15:03 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-02 15:03 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-02 15:03 +05:30: ✅ Database connected successfully
+2025-12-02 15:03 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-02 15:03 +05:30: 📊 Environment: development
+2025-12-02 15:03 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-02 15:03 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-03 09:43 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-03 09:43 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-03 09:43 +05:30: ✅ Database connected successfully
+2025-12-03 09:43 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-03 09:43 +05:30: 📊 Environment: development
+2025-12-03 09:43 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-03 09:43 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-03 11:43 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-03 11:43 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-03 11:43 +05:30: ✅ Database connected successfully
+2025-12-03 11:43 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-03 11:43 +05:30: 📊 Environment: development
+2025-12-03 11:43 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-03 11:43 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-04 11:25 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-04 11:25 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-04 11:25 +05:30: ✅ Database connected successfully
+2025-12-04 11:25 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-04 11:25 +05:30: 📊 Environment: development
+2025-12-04 11:25 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-04 11:25 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-04 22:45 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-04 22:45 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-04 22:45 +05:30: ✅ Database connected successfully
+2025-12-04 22:45 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-04 22:45 +05:30: 📊 Environment: development
+2025-12-04 22:45 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-04 22:45 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-05 10:02 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-05 10:02 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-05 10:02 +05:30: ✅ Database connected successfully
+2025-12-05 10:02 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-05 10:02 +05:30: 📊 Environment: development
+2025-12-05 10:02 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-05 10:02 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-06 19:45 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-06 19:45 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-06 19:45 +05:30: ✅ Database connected successfully
+2025-12-06 19:45 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-06 19:45 +05:30: 📊 Environment: development
+2025-12-06 19:45 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-06 19:45 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-10 10:58 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-10 10:58 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-10 10:58 +05:30: ✅ Database connected successfully
+2025-12-10 10:58 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-10 10:58 +05:30: 📊 Environment: development
+2025-12-10 10:58 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-10 10:58 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-10 20:58 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-10 20:58 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-10 20:58 +05:30: ✅ Database connected successfully
+2025-12-10 20:58 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-10 20:58 +05:30: 📊 Environment: development
+2025-12-10 20:58 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-10 20:58 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-11 09:41 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-11 09:41 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-11 09:41 +05:30: ✅ Database connected successfully
+2025-12-11 09:41 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-11 09:41 +05:30: 📊 Environment: development
+2025-12-11 09:41 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-11 09:41 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-11 12:55 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-11 12:55 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-11 12:55 +05:30: ✅ Database connected successfully
+2025-12-11 12:55 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-11 12:55 +05:30: 📊 Environment: development
+2025-12-11 12:55 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-11 12:55 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-12 09:34 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-12 09:34 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-12 09:34 +05:30: ✅ Database connected successfully
+2025-12-12 09:34 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-12 09:34 +05:30: 📊 Environment: development
+2025-12-12 09:34 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-12 09:34 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-13 12:05 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-13 12:05 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-13 12:05 +05:30: ✅ Database connected successfully
+2025-12-13 12:05 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-13 12:05 +05:30: 📊 Environment: development
+2025-12-13 12:05 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-13 12:05 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-14 09:45 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-14 09:45 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-14 09:45 +05:30: ✅ Database connected successfully
+2025-12-14 09:45 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-14 09:45 +05:30: 📊 Environment: development
+2025-12-14 09:45 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-14 09:45 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-16 10:32 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-16 10:32 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-16 10:32 +05:30: ✅ Database connected successfully
+2025-12-16 10:32 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-16 10:32 +05:30: 📊 Environment: development
+2025-12-16 10:32 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-16 10:32 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-22 07:51 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-22 07:51 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-22 07:51 +05:30: ✅ Database connected successfully
+2025-12-22 07:51 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-22 07:51 +05:30: 📊 Environment: development
+2025-12-22 07:51 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-22 07:51 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-22 11:14 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-22 11:14 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-22 11:14 +05:30: ✅ Database connected successfully
+2025-12-22 11:14 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-22 11:14 +05:30: 📊 Environment: development
+2025-12-22 11:14 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-22 11:14 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-24 10:17 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-24 10:17 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-24 10:17 +05:30: ✅ Database connected successfully
+2025-12-24 10:17 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-24 10:17 +05:30: 📊 Environment: development
+2025-12-24 10:17 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-24 10:17 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-25 10:36 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-25 10:36 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-25 10:36 +05:30: ✅ Database connected successfully
+2025-12-25 10:36 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-25 10:36 +05:30: 📊 Environment: development
+2025-12-25 10:36 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-25 10:36 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-26 09:04 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-26 09:04 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-26 09:04 +05:30: ✅ Database connected successfully
+2025-12-26 09:04 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-26 09:04 +05:30: 📊 Environment: development
+2025-12-26 09:04 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-26 09:04 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-27 11:04 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-27 11:04 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-27 11:04 +05:30: ✅ Database connected successfully
+2025-12-27 11:04 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-27 11:04 +05:30: 📊 Environment: development
+2025-12-27 11:04 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-27 11:04 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-28 09:54 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-28 09:54 +05:30: ✅ Database connected successfully
+2025-12-28 09:54 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-28 09:54 +05:30: 📊 Environment: development
+2025-12-28 09:54 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-28 09:54 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-28 09:54 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-29 11:33 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-29 11:33 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-29 11:33 +05:30: ✅ Database connected successfully
+2025-12-29 11:33 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-29 11:33 +05:30: 📊 Environment: development
+2025-12-29 11:33 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-29 11:33 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-29 19:01 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-29 19:01 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-29 19:01 +05:30: ✅ Database connected successfully
+2025-12-29 19:01 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-29 19:01 +05:30: 📊 Environment: development
+2025-12-29 19:01 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-29 19:01 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-31 10:48 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-31 10:48 +05:30: ✅ Database connected successfully
+2025-12-31 10:48 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-31 10:48 +05:30: 📊 Environment: development
+2025-12-31 10:48 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-31 10:48 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-31 10:48 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-31 14:18 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-31 14:18 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-31 14:18 +05:30: ✅ Database connected successfully
+2025-12-31 14:18 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-31 14:18 +05:30: 📊 Environment: development
+2025-12-31 14:18 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-31 14:18 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-31 15:51 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-31 15:51 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-31 15:51 +05:30: ✅ Database connected successfully
+2025-12-31 15:51 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-31 15:51 +05:30: 📊 Environment: development
+2025-12-31 15:51 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-31 15:51 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2025-12-31 19:21 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2025-12-31 19:21 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2025-12-31 19:21 +05:30: ✅ Database connected successfully
+2025-12-31 19:21 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2025-12-31 19:21 +05:30: 📊 Environment: development
+2025-12-31 19:21 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2025-12-31 19:21 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-01 13:31 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-01 13:31 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-01 13:31 +05:30: ✅ Database connected successfully
+2026-01-01 13:31 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-01 13:31 +05:30: 📊 Environment: development
+2026-01-01 13:31 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-01 13:31 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-02 10:48 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-02 10:48 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-02 10:48 +05:30: ✅ Database connected successfully
+2026-01-02 10:48 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-02 10:48 +05:30: 📊 Environment: development
+2026-01-02 10:48 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-02 10:48 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-02 11:18 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-02 11:18 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-02 11:18 +05:30: ✅ Database connected successfully
+2026-01-02 11:18 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-02 11:18 +05:30: 📊 Environment: development
+2026-01-02 11:18 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-02 11:18 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-03 10:13 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-03 10:13 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-03 10:13 +05:30: ✅ Database connected successfully
+2026-01-03 10:13 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-03 10:13 +05:30: 📊 Environment: development
+2026-01-03 10:13 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-03 10:13 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-04 10:07 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-04 10:07 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-04 10:07 +05:30: ✅ Database connected successfully
+2026-01-04 10:07 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-04 10:07 +05:30: 📊 Environment: development
+2026-01-04 10:07 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-04 10:07 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-04 14:23 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-04 14:23 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-04 14:23 +05:30: ✅ Database connected successfully
+2026-01-04 14:23 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-04 14:23 +05:30: 📊 Environment: development
+2026-01-04 14:23 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-04 14:23 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-05 11:07 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-05 11:07 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-05 11:07 +05:30: ✅ Database connected successfully
+2026-01-05 11:07 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-05 11:07 +05:30: 📊 Environment: development
+2026-01-05 11:07 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-05 11:07 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-05 19:04 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-05 19:04 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-05 19:04 +05:30: ✅ Database connected successfully
+2026-01-05 19:04 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-05 19:04 +05:30: 📊 Environment: development
+2026-01-05 19:04 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-05 19:04 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-06 13:01 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-06 13:01 +05:30: ✅ Database connected successfully
+2026-01-06 13:01 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-06 13:01 +05:30: 📊 Environment: development
+2026-01-06 13:01 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-06 13:01 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-06 13:01 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-07 10:57 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-07 10:57 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-07 10:57 +05:30: ✅ Database connected successfully
+2026-01-07 10:57 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-07 10:57 +05:30: 📊 Environment: development
+2026-01-07 10:57 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-07 10:57 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-07 15:44 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-07 15:44 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-07 15:44 +05:30: ✅ Database connected successfully
+2026-01-07 15:44 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-07 15:44 +05:30: 📊 Environment: development
+2026-01-07 15:44 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-07 15:44 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-07 20:27 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-07 20:27 +05:30: ✅ Database connected successfully
+2026-01-07 20:27 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-07 20:27 +05:30: 📊 Environment: development
+2026-01-07 20:27 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-07 20:27 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-07 20:27 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-08 10:57 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-08 10:57 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-08 10:57 +05:30: ✅ Database connected successfully
+2026-01-08 10:57 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-08 10:57 +05:30: 📊 Environment: development
+2026-01-08 10:57 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-08 10:57 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-08 11:13 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-08 11:13 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-08 11:13 +05:30: ✅ Database connected successfully
+2026-01-08 11:13 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-08 11:13 +05:30: 📊 Environment: development
+2026-01-08 11:13 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-08 11:13 +05:30: 📚 API Base: http://127.0.0.1:5000/api
+2026-01-09 11:23 +05:30: 🔄 Enhanced System Monitor: Continuous monitoring started
+2026-01-09 11:23 +05:30: ✅ Enhanced System Monitor: Connected to PM2
+2026-01-09 11:23 +05:30: ✅ Database connected successfully
+2026-01-09 11:23 +05:30: 🚀 CMSCRM Backend Server running on http://127.0.0.1:5000
+2026-01-09 11:23 +05:30: 📊 Environment: development
+2026-01-09 11:23 +05:30: 🔗 Health Check: http://127.0.0.1:5000/health
+2026-01-09 11:23 +05:30: 📚 API Base: http://127.0.0.1:5000/api
