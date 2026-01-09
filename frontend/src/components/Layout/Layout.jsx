@@ -199,7 +199,7 @@ const Sidebar = ({ isOpen, onClose, onExternalPageOpen }) => {
             ) : myPages.length === 0 ? (
               <div className="px-4 py-3 text-sm text-gray-400 dark:text-gray-500 bg-gray-50 dark:bg-gray-800 rounded-lg">No pages assigned</div>
             ) : (
-              <ul className={`space-y-1 overflow-y-auto ${myPages.length > 10 ? 'max-h-[400px]' : 'max-h-none'} scrollbar-hide`}>
+              <ul className={`space-y-1 overflow-y-auto ${myPages.length > 10 ? 'max-h-[60vh]' : 'max-h-none'} scrollbar-hide`}>
   {myPages
     .filter(p => {
       const excludedPages = ['Activity Logs', 'Company Website', 'Documentation', 'Help Center'];
